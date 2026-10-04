@@ -1,0 +1,320 @@
+{
+    "id": "resp_08a690278a92ed090068ef675030c481959d0b2b4b473306ff",
+    "created_at": 1760520016,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "usage": {
+        "input_tokens": 1639,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2135,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3774
+    },
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 129441,
+                "originalJapaneseLine": "「……いや、まだ五ヶ月経っておらぬ。ﾇﾇﾇ」",
+                "translatedEnglishLine": "\"...No, five months haven't passed yet. Nununu.\""
+            },
+            {
+                "lineNumber": 129442,
+                "originalJapaneseLine": "「あら、本当？」",
+                "translatedEnglishLine": "\"Oh, really?\""
+            },
+            {
+                "lineNumber": 129443,
+                "originalJapaneseLine": "「……………………」",
+                "translatedEnglishLine": "\"................\""
+            },
+            {
+                "lineNumber": 129444,
+                "originalJapaneseLine": "「……………………」",
+                "translatedEnglishLine": "\"................\""
+            },
+            {
+                "lineNumber": 129445,
+                "originalJapaneseLine": "「まあ、いいわ」",
+                "translatedEnglishLine": "\"Well, that's fine.\""
+            },
+            {
+                "lineNumber": 129446,
+                "originalJapaneseLine": "「んーーーーっ、",
+                "translatedEnglishLine": "\"Hmm..."
+            },
+            {
+                "lineNumber": 129447,
+                "originalJapaneseLine": "　それなら退屈だし、私はそろそろ",
+                "translatedEnglishLine": "Well, I'm getting bored. Perhaps it's time"
+            },
+            {
+                "lineNumber": 129448,
+                "originalJapaneseLine": "　この船の外に出ようかしら……」",
+                "translatedEnglishLine": "I left this ship...\""
+            },
+            {
+                "lineNumber": 129449,
+                "originalJapaneseLine": "「ロッキー君、貴方はまだここで待つのかしら？」",
+                "translatedEnglishLine": "“Are you still planning to wait here, Rocky-kun?”"
+            },
+            {
+                "lineNumber": 129450,
+                "originalJapaneseLine": "「……うう、実はちょっと悩んでるだす。",
+                "translatedEnglishLine": "\"...Ugh, actually, I'm really torn about what to do."
+            },
+            {
+                "lineNumber": 129451,
+                "originalJapaneseLine": "　ランス様のそばにいたいのは当たり前だすが……」",
+                "translatedEnglishLine": "Of course I want to stay by Lord Rance's side, but...\""
+            },
+            {
+                "lineNumber": 129452,
+                "originalJapaneseLine": "「なんだか嫌な予感がするだす……」",
+                "translatedEnglishLine": "“I just have an incredibly bad feeling about this...”"
+            },
+            {
+                "lineNumber": 129453,
+                "originalJapaneseLine": "「こう、とんでもないことが起きてるのに、",
+                "translatedEnglishLine": "“It feels like something absolutely terrifying is happening, and yet"
+            },
+            {
+                "lineNumber": 129454,
+                "originalJapaneseLine": "　それに気づけていないような……」",
+                "translatedEnglishLine": "none of us are even realizing it...”"
+            },
+            {
+                "lineNumber": 129455,
+                "originalJapaneseLine": "「こんな場所で、ボーッとしてたら",
+                "translatedEnglishLine": "“If we just stand around and zone out in a place like this,"
+            },
+            {
+                "lineNumber": 129456,
+                "originalJapaneseLine": "　何かまずいような……」",
+                "translatedEnglishLine": "we're gonna end up in serious trouble...”"
+            },
+            {
+                "lineNumber": 129457,
+                "originalJapaneseLine": "「なら、外に出てみたら？",
+                "translatedEnglishLine": "“Then why not go outside?"
+            },
+            {
+                "lineNumber": 129458,
+                "originalJapaneseLine": "　ランス君達はまだ出てこないようだし」",
+                "translatedEnglishLine": "It's not like Rance and his group are coming out anytime soon anyway.”"
+            },
+            {
+                "lineNumber": 129459,
+                "originalJapaneseLine": "「……そうだすな。",
+                "translatedEnglishLine": "\"...That's true."
+            },
+            {
+                "lineNumber": 129460,
+                "originalJapaneseLine": "　おら、人の多そうな街にでも行ってみるだす」",
+                "translatedEnglishLine": "Yeah... I think I'll head out and find a town that seems busy.\""
+            },
+            {
+                "lineNumber": 129461,
+                "originalJapaneseLine": "「街ね。なら男の子モンスターを",
+                "translatedEnglishLine": "“A town? Well, my goal of hunting down boy monsters"
+            },
+            {
+                "lineNumber": 129462,
+                "originalJapaneseLine": "　探す私とは目的地は合わないわね」",
+                "translatedEnglishLine": "means our destinations won't match up.”"
+            },
+            {
+                "lineNumber": 129463,
+                "originalJapaneseLine": "「途中まで一緒に行くだ」",
+                "translatedEnglishLine": "“But I'll walk with you part of the way!”"
+            },
+            {
+                "lineNumber": 129464,
+                "originalJapaneseLine": "「そうね。",
+                "translatedEnglishLine": "\"That's right."
+            },
+            {
+                "lineNumber": 129465,
+                "originalJapaneseLine": "　というわけだから、メガッス君達、",
+                "translatedEnglishLine": "So, Megass and the rest of you,"
+            },
+            {
+                "lineNumber": 129466,
+                "originalJapaneseLine": "　また会いましょう」",
+                "translatedEnglishLine": "hopefully we'll meet again sometime!\""
+            },
+            {
+                "lineNumber": 129467,
+                "originalJapaneseLine": "「お世話になりましただ」",
+                "translatedEnglishLine": "“Thanks for taking such good care of us!”"
+            },
+            {
+                "lineNumber": 129468,
+                "originalJapaneseLine": "「……うむ。ﾇﾇﾇ」",
+                "translatedEnglishLine": "\"...Hmm. Nnnu\""
+            },
+            {
+                "lineNumber": 129469,
+                "originalJapaneseLine": "ベゼルアイとロッキーは宇宙船を出て行った。",
+                "translatedEnglishLine": "Bezeleye and Rocky left the spaceship."
+            },
+            {
+                "lineNumber": 129470,
+                "originalJapaneseLine": "…………",
+                "translatedEnglishLine": "........"
+            },
+            {
+                "lineNumber": 129471,
+                "originalJapaneseLine": "……",
+                "translatedEnglishLine": "..."
+            },
+            {
+                "lineNumber": 129472,
+                "originalJapaneseLine": "三年後――",
+                "translatedEnglishLine": "Three years later—"
+            },
+            {
+                "lineNumber": 129473,
+                "originalJapaneseLine": "コールドスリープ室――",
+                "translatedEnglishLine": "Cold sleep chamber—"
+            },
+            {
+                "lineNumber": 129474,
+                "originalJapaneseLine": "メガッス達がコールドスリープ装置の前に",
+                "translatedEnglishLine": "Megass and the others had gathered"
+            },
+            {
+                "lineNumber": 129475,
+                "originalJapaneseLine": "集まっていた。",
+                "translatedEnglishLine": "in front of the cryogenic pod."
+            },
+            {
+                "lineNumber": 129476,
+                "originalJapaneseLine": "『……さて、開けるべきか否か』",
+                "translatedEnglishLine": "\"...Now, should we open it or not?\""
+            },
+            {
+                "lineNumber": 129477,
+                "originalJapaneseLine": "『……あれから三年か』",
+                "translatedEnglishLine": "'...It's been three years since then.'"
+            },
+            {
+                "lineNumber": 129478,
+                "originalJapaneseLine": "『すっかり存在を忘れていたわ……",
+                "translatedEnglishLine": "\"I had completely forgotten they even existed..."
+            },
+            {
+                "lineNumber": 129479,
+                "originalJapaneseLine": "　どうしたものかしらねぇ……』",
+                "translatedEnglishLine": "I wonder what we should do...\""
+            },
+            {
+                "lineNumber": 129480,
+                "originalJapaneseLine": "『……もう出したところでなぁ』",
+                "translatedEnglishLine": "\"...Even if we let them out at this point...\""
+            },
+            {
+                "lineNumber": 129481,
+                "originalJapaneseLine": "『そうねぇ。",
+                "translatedEnglishLine": "\"'That's true."
+            },
+            {
+                "lineNumber": 129482,
+                "originalJapaneseLine": "　でも、だからこそ私は出した方がいいと思う。",
+                "translatedEnglishLine": "But that's precisely why I think we should let them out."
+            },
+            {
+                "lineNumber": 129483,
+                "originalJapaneseLine": "　その辺りも含めて、本人達に判断させないと』",
+                "translatedEnglishLine": "Whatever the state of the world, they should be the ones to make their own choices.\""
+            },
+            {
+                "lineNumber": 129484,
+                "originalJapaneseLine": "『俺は……』",
+                "translatedEnglishLine": "'I...'"
+            },
+            {
+                "lineNumber": 129485,
+                "originalJapaneseLine": "『……俺は反対だ。",
+                "translatedEnglishLine": "\"'...I am against it."
+            },
+            {
+                "lineNumber": 129486,
+                "originalJapaneseLine": "　今更、外の世界を見せるのはあまりに酷だ』",
+                "translatedEnglishLine": "It would be too cruel to show them the outside world now.\""
+            },
+            {
+                "lineNumber": 129487,
+                "originalJapaneseLine": "『優しいのねぇ、メガフォースは』",
+                "translatedEnglishLine": "'Megaforce, you’re so kind.'"
+            },
+            {
+                "lineNumber": 129488,
+                "originalJapaneseLine": "『茶化すなよ』",
+                "translatedEnglishLine": "'Don’t mock me.'"
+            },
+            {
+                "lineNumber": 129489,
+                "originalJapaneseLine": "『もちろん、出すか否かは先生にお任せします』",
+                "translatedEnglishLine": "'Of course, whether to bring them out or not is up to the teacher.' "
+            },
+            {
+                "lineNumber": 129490,
+                "originalJapaneseLine": "『…………ふむ』",
+                "translatedEnglishLine": "'...Hmm.' "
+            },
+            {
+                "lineNumber": 129491,
+                "originalJapaneseLine": "『開けよう』",
+                "translatedEnglishLine": "'Let's open it.' "
+            },
+            {
+                "lineNumber": 129492,
+                "originalJapaneseLine": "こうして、ランス達は三年後の世界で",
+                "translatedEnglishLine": "And so, Rance and the others awoke"
+            },
+            {
+                "lineNumber": 129493,
+                "originalJapaneseLine": "目を覚ました。",
+                "translatedEnglishLine": "in a world three years later."
+            },
+            {
+                "lineNumber": 129494,
+                "originalJapaneseLine": "…………",
+                "translatedEnglishLine": "........"
+            },
+            {
+                "lineNumber": 129495,
+                "originalJapaneseLine": "……",
+                "translatedEnglishLine": "..."
+            },
+            {
+                "lineNumber": 129496,
+                "originalJapaneseLine": "「い、今が三年後だと……？」",
+                "translatedEnglishLine": "“W-What...? It's already three years later...?”"
+            },
+            {
+                "lineNumber": 129497,
+                "originalJapaneseLine": "「ええい、こうしていられるか！",
+                "translatedEnglishLine": "\"To hell with this! I'm not just gonna stand around!"
+            },
+            {
+                "lineNumber": 129498,
+                "originalJapaneseLine": "　外に出て俺の女達に会いに行くぞ！」",
+                "translatedEnglishLine": "I'm going out to see my women!\""
+            },
+            {
+                "lineNumber": 129499,
+                "originalJapaneseLine": "「待て、その前に大事な話があります。",
+                "translatedEnglishLine": "\"Wait, before that, there is something important to talk about."
+            },
+            {
+                "lineNumber": 129500,
+                "originalJapaneseLine": "　外の世界には出ん方がいい。ﾇﾇﾇ」",
+                "translatedEnglishLine": "You'd be better off staying out of the outside world. Nununu.\""
+            }
+        ]
+    }
+}

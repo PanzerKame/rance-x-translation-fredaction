@@ -1,0 +1,320 @@
+{
+    "id": "resp_0153ddaac68ee9760068f114ac592c8194b8c1f8e02ad80bf5",
+    "created_at": 1760629932,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "usage": {
+        "input_tokens": 1842,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2339,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 4181
+    },
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 129271,
+                "originalJapaneseLine": "　どこかに美人はいないのか」",
+                "translatedEnglishLine": "Isn't there a beautiful woman somewhere?\""
+            },
+            {
+                "lineNumber": 129272,
+                "originalJapaneseLine": "「ふん、美人と言えば",
+                "translatedEnglishLine": "\"Hmph, speaking of beautiful women,"
+            },
+            {
+                "lineNumber": 129273,
+                "originalJapaneseLine": "　テラ様を置いて他にないだろう。ﾇﾇﾇ」",
+                "translatedEnglishLine": "there's no one but Lady Terra. Nununu.\""
+            },
+            {
+                "lineNumber": 129274,
+                "originalJapaneseLine": "「テラ様？」",
+                "translatedEnglishLine": "\"Lady Terra?\""
+            },
+            {
+                "lineNumber": 129275,
+                "originalJapaneseLine": "「あ、やべっ……ﾇﾇﾇ」",
+                "translatedEnglishLine": "\"Ah, crap... Nununu.\""
+            },
+            {
+                "lineNumber": 129276,
+                "originalJapaneseLine": "「もう、馬鹿ね……ﾇﾇﾇ」",
+                "translatedEnglishLine": "\"Oh, you idiot... Nununu.\""
+            },
+            {
+                "lineNumber": 129277,
+                "originalJapaneseLine": "「……まあ、良かろう。",
+                "translatedEnglishLine": "\"...Well, fine."
+            },
+            {
+                "lineNumber": 129278,
+                "originalJapaneseLine": "　彼には関係のないことじゃ。ﾇﾇﾇ」",
+                "translatedEnglishLine": "It doesn't concern him anyway. Nununu.\""
+            },
+            {
+                "lineNumber": 129279,
+                "originalJapaneseLine": "「ランス殿、テラ様とは",
+                "translatedEnglishLine": "\"Lord Rance, Lady Terra is"
+            },
+            {
+                "lineNumber": 129280,
+                "originalJapaneseLine": "　ホルスの女王のことじゃ。ﾇﾇﾇ」",
+                "translatedEnglishLine": "the queen of the Horus. Nununu.\""
+            },
+            {
+                "lineNumber": 129281,
+                "originalJapaneseLine": "「女王？」",
+                "translatedEnglishLine": "\"A queen?\""
+            },
+            {
+                "lineNumber": 129282,
+                "originalJapaneseLine": "「うむ、儂らにとっては神にも等しく、",
+                "translatedEnglishLine": "\"Indeed. To us, she is nothing short of a divine goddess,"
+            },
+            {
+                "lineNumber": 129283,
+                "originalJapaneseLine": "　その美しさはあらゆる種族を越える……ﾇﾇﾇ」",
+                "translatedEnglishLine": "and her beauty transcends all species... Nununu.\""
+            },
+            {
+                "lineNumber": 129284,
+                "originalJapaneseLine": "「と、思うのは、あくまでホルスの価値観。",
+                "translatedEnglishLine": "\"At least, that's the Horus perspective."
+            },
+            {
+                "lineNumber": 129285,
+                "originalJapaneseLine": "　人間が実際に目の当たりにしても",
+                "translatedEnglishLine": "Even if a human were to gaze upon her directly,"
+            },
+            {
+                "lineNumber": 129286,
+                "originalJapaneseLine": "　なんの感動もないでしょうねぇ。ﾇﾇﾇ」",
+                "translatedEnglishLine": "they probably wouldn't be impressed. Nununu.\""
+            },
+            {
+                "lineNumber": 129287,
+                "originalJapaneseLine": "「……だな。",
+                "translatedEnglishLine": "\"...Indeed."
+            },
+            {
+                "lineNumber": 129288,
+                "originalJapaneseLine": "　ムシ異星人のメスったって、",
+                "translatedEnglishLine": "Even the females of you bug aliens"
+            },
+            {
+                "lineNumber": 129289,
+                "originalJapaneseLine": "　皆、お前みたいなもんだろう？」",
+                "translatedEnglishLine": "must look more or less like you, right?\""
+            },
+            {
+                "lineNumber": 129290,
+                "originalJapaneseLine": "「？　メガワスのことか？",
+                "translatedEnglishLine": "\"? Are you talking about Megawas?"
+            },
+            {
+                "lineNumber": 129291,
+                "originalJapaneseLine": "　こいつ男だぞ。ﾇﾇﾇ」",
+                "translatedEnglishLine": "He's male. Nununu.\""
+            },
+            {
+                "lineNumber": 129292,
+                "originalJapaneseLine": "「お前、オカマかよ！？」",
+                "translatedEnglishLine": "“Wait, you're a guy!?”"
+            },
+            {
+                "lineNumber": 129293,
+                "originalJapaneseLine": "「あらヤダ、見たら分かるでしょ？　ﾇﾇﾇ」",
+                "translatedEnglishLine": "\"Oh my, can't you tell just by looking? Nununu.\""
+            },
+            {
+                "lineNumber": 129294,
+                "originalJapaneseLine": "「分かるか！」",
+                "translatedEnglishLine": "\"How could I tell!?\""
+            },
+            {
+                "lineNumber": 129295,
+                "originalJapaneseLine": "「…………ふむ」",
+                "translatedEnglishLine": "\"...Hmm.\""
+            },
+            {
+                "lineNumber": 129296,
+                "originalJapaneseLine": "「面白い」",
+                "translatedEnglishLine": "\"Interesting.\""
+            },
+            {
+                "lineNumber": 129297,
+                "originalJapaneseLine": "「え、あ、あの、ランス様？」",
+                "translatedEnglishLine": "\"Uh, um, Lord Rance?\""
+            },
+            {
+                "lineNumber": 129298,
+                "originalJapaneseLine": "「そのテラという女王、",
+                "translatedEnglishLine": "\"That queen called Terra,"
+            },
+            {
+                "lineNumber": 129299,
+                "originalJapaneseLine": "　せめて宇宙戦艦土産に一目見てから帰るか」",
+                "translatedEnglishLine": "I should at least see her before we leave, as a souvenir of this battleship.\""
+            },
+            {
+                "lineNumber": 129300,
+                "originalJapaneseLine": "（そして、もし本当に美人なら……",
+                "translatedEnglishLine": "(And if she really is beautiful..."
+            },
+            {
+                "lineNumber": 129301,
+                "originalJapaneseLine": "　ぐふふふふ……）",
+                "translatedEnglishLine": "Gufufufu...)"
+            },
+            {
+                "lineNumber": 129302,
+                "originalJapaneseLine": "「会いたいぞ、どこにいる」",
+                "translatedEnglishLine": "\"I want to meet her, where is she?\""
+            },
+            {
+                "lineNumber": 129303,
+                "originalJapaneseLine": "「それが分かれば私達も苦労しないわよぉ。ﾇﾇﾇ」",
+                "translatedEnglishLine": "\"If we knew that, we wouldn't have this problem. Nununu.\""
+            },
+            {
+                "lineNumber": 129304,
+                "originalJapaneseLine": "「テラ様はこの装置のどこかで",
+                "translatedEnglishLine": "\"Lady Terra is still asleep"
+            },
+            {
+                "lineNumber": 129305,
+                "originalJapaneseLine": "　今も眠りについておられる。",
+                "translatedEnglishLine": "in one of these pods."
+            },
+            {
+                "lineNumber": 129306,
+                "originalJapaneseLine": "　ただし、どの装置か、までは分からん。ﾇﾇﾇ」",
+                "translatedEnglishLine": "But we don't know which one. Nununu.\""
+            },
+            {
+                "lineNumber": 129307,
+                "originalJapaneseLine": "「ここに着いたときの事故で、",
+                "translatedEnglishLine": "\"During the accident when we arrived here,"
+            },
+            {
+                "lineNumber": 129308,
+                "originalJapaneseLine": "　その辺りのデータが吹っ飛んじゃったのよ。ﾇﾇﾇ」",
+                "translatedEnglishLine": "we lost the data that would tell us. Nununu.\""
+            },
+            {
+                "lineNumber": 129309,
+                "originalJapaneseLine": "「？　片っ端から開ければいいだろ」",
+                "translatedEnglishLine": "\"Huh? Then just open them one by one.\""
+            },
+            {
+                "lineNumber": 129310,
+                "originalJapaneseLine": "「それだけはならん！　ﾇﾇﾇ」",
+                "translatedEnglishLine": "\"You mustn't do that! Nununu.\""
+            },
+            {
+                "lineNumber": 129311,
+                "originalJapaneseLine": "「うお、ビックリした」",
+                "translatedEnglishLine": "\"Whoa, you scared me.\""
+            },
+            {
+                "lineNumber": 129312,
+                "originalJapaneseLine": "「……大声を出してすみませぬ。",
+                "translatedEnglishLine": "\"...Forgive me for raising my voice."
+            },
+            {
+                "lineNumber": 129313,
+                "originalJapaneseLine": "　しかし、この中には、",
+                "translatedEnglishLine": "But Jaharukkas is also"
+            },
+            {
+                "lineNumber": 129314,
+                "originalJapaneseLine": "　ジャハルッカスもおります故。ﾇﾇﾇ」",
+                "translatedEnglishLine": "somewhere in here. Nununu.\""
+            },
+            {
+                "lineNumber": 129315,
+                "originalJapaneseLine": "「ジャハ……なんだと？」",
+                "translatedEnglishLine": "\"Jaha...what did you say?\""
+            },
+            {
+                "lineNumber": 129316,
+                "originalJapaneseLine": "「ジャハルッカス。",
+                "translatedEnglishLine": "\"Jaharukkas."
+            },
+            {
+                "lineNumber": 129317,
+                "originalJapaneseLine": "　ホルス史上最悪、最低、最強の殺人鬼よ。ﾇﾇﾇ」",
+                "translatedEnglishLine": "The worst, most depraved, most powerful killer in Horus history. Nununu.\""
+            },
+            {
+                "lineNumber": 129318,
+                "originalJapaneseLine": "「ホルスではね、千年に一人くらい、",
+                "translatedEnglishLine": "\"About once every thousand years,"
+            },
+            {
+                "lineNumber": 129319,
+                "originalJapaneseLine": "　そういう異常者が生まれるの。",
+                "translatedEnglishLine": "a Horus like that is born:"
+            },
+            {
+                "lineNumber": 129320,
+                "originalJapaneseLine": "　異常に強く、異常に仲間殺しに傾倒する奴が。ﾇﾇﾇ」",
+                "translatedEnglishLine": "incredibly strong, and obsessed with killing our own kind. Nununu.\""
+            },
+            {
+                "lineNumber": 129321,
+                "originalJapaneseLine": "「私達の世界で、そういう奴は",
+                "translatedEnglishLine": "\"In our world, they're feared"
+            },
+            {
+                "lineNumber": 129322,
+                "originalJapaneseLine": "　デスホルスと呼ばれ恐れられる。",
+                "translatedEnglishLine": "as Death Horus."
+            },
+            {
+                "lineNumber": 129323,
+                "originalJapaneseLine": "　こちらの世界で言えば魔人が近いかしら。ﾇﾇﾇ」",
+                "translatedEnglishLine": "Fiends would be the closest thing in your world. Nununu.\""
+            },
+            {
+                "lineNumber": 129324,
+                "originalJapaneseLine": "「なら、大したことなさそうだな」",
+                "translatedEnglishLine": "\"Then it doesn't sound like a big deal.\""
+            },
+            {
+                "lineNumber": 129325,
+                "originalJapaneseLine": "「おい、何故こっちを見る」",
+                "translatedEnglishLine": "\"Hey, why are you looking this way?\""
+            },
+            {
+                "lineNumber": 129326,
+                "originalJapaneseLine": "「まるで種族の定めのようにデスホルスは生まれる。",
+                "translatedEnglishLine": "\"Death Horus are born as if it were the fate of the species."
+            },
+            {
+                "lineNumber": 129327,
+                "originalJapaneseLine": "　ジャハルッカスも、成人するまでは",
+                "translatedEnglishLine": "I've heard that even Jaharukkas"
+            },
+            {
+                "lineNumber": 129328,
+                "originalJapaneseLine": "　心優しいホルスだったと聞いておるが。ﾇﾇﾇ」",
+                "translatedEnglishLine": "was a kind-hearted Horus until he reached adulthood. Nununu.\""
+            },
+            {
+                "lineNumber": 129329,
+                "originalJapaneseLine": "「成人したと同時に、両親、恋人、友人を殺し、",
+                "translatedEnglishLine": "\"As soon as he became an adult, he killed his parents, lover, and friends,"
+            },
+            {
+                "lineNumber": 129330,
+                "originalJapaneseLine": "　殺すことを目的におびただしい数の",
+                "translatedEnglishLine": "then went on to kill countless others"
+            }
+        ]
+    }
+}

@@ -1,0 +1,320 @@
+{
+    "id": "resp_0bc88ce39ca8b8ee0068f0dc2c8e5081959768c186021065d5",
+    "created_at": 1760615468,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "usage": {
+        "input_tokens": 1684,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2149,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3833
+    },
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 114701,
+                "originalJapaneseLine": "「お……」",
+                "translatedEnglishLine": "\"Oh...\""
+            },
+            {
+                "lineNumber": 114702,
+                "originalJapaneseLine": "「んん？」",
+                "translatedEnglishLine": "\"Hmm?\""
+            },
+            {
+                "lineNumber": 114703,
+                "originalJapaneseLine": "軍議が終わり、司令部から出てきた",
+                "translatedEnglishLine": "When Rance and Satella left headquarters after the war council,"
+            },
+            {
+                "lineNumber": 114704,
+                "originalJapaneseLine": "ランスとサテラは珍しいものを見つけた。",
+                "translatedEnglishLine": "they spotted something unusual."
+            },
+            {
+                "lineNumber": 114705,
+                "originalJapaneseLine": "「あ、ご主人様れす」",
+                "translatedEnglishLine": "“Ah, Master, resu!”"
+            },
+            {
+                "lineNumber": 114706,
+                "originalJapaneseLine": "「サテラ様」",
+                "translatedEnglishLine": "\"Lady Satella.\""
+            },
+            {
+                "lineNumber": 114707,
+                "originalJapaneseLine": "「あてなとシーザー、一緒にいたのか？",
+                "translatedEnglishLine": "“Athena and Caesar, were you two hanging out?"
+            },
+            {
+                "lineNumber": 114708,
+                "originalJapaneseLine": "　珍しいコンビだな」",
+                "translatedEnglishLine": "That's an unusual pair.”"
+            },
+            {
+                "lineNumber": 114709,
+                "originalJapaneseLine": "「はいれす、シーザーちゃんと友達になったれす」",
+                "translatedEnglishLine": "“Yes, resu! I became friends with Caesar-chan, resu!”"
+            },
+            {
+                "lineNumber": 114710,
+                "originalJapaneseLine": "「シーザーと友達って……本当かよ……」",
+                "translatedEnglishLine": "\"Friends with Caesar... really...?\""
+            },
+            {
+                "lineNumber": 114711,
+                "originalJapaneseLine": "「ふん、人形風情が傲慢な。",
+                "translatedEnglishLine": "“Hmph, a mere doll acting arrogant."
+            },
+            {
+                "lineNumber": 114712,
+                "originalJapaneseLine": "　シーザーと同列かのような顔をするとはな」",
+                "translatedEnglishLine": "Acting as though you're on the same level as Caesar.”"
+            },
+            {
+                "lineNumber": 114713,
+                "originalJapaneseLine": "「しかし、少し興味の湧く組み合わせだな。",
+                "translatedEnglishLine": "“However, it's a somewhat interesting combination."
+            },
+            {
+                "lineNumber": 114714,
+                "originalJapaneseLine": "　どんな話してたんだ？」",
+                "translatedEnglishLine": "What were you talking about?”"
+            },
+            {
+                "lineNumber": 114715,
+                "originalJapaneseLine": "「シーザーちゃんの愚痴聞いてたれす」",
+                "translatedEnglishLine": "“I was listening to Caesar-chan's complaints, resu!”"
+            },
+            {
+                "lineNumber": 114716,
+                "originalJapaneseLine": "「さ、サテラのいない所では",
+                "translatedEnglishLine": "“D-Does Caesar actually complain"
+            },
+            {
+                "lineNumber": 114717,
+                "originalJapaneseLine": "　愚痴とか言うのか！？　シーザーは！」",
+                "translatedEnglishLine": "when Satella isn't around!?”"
+            },
+            {
+                "lineNumber": 114718,
+                "originalJapaneseLine": "「意外だな……」",
+                "translatedEnglishLine": "\"That's surprising...\""
+            },
+            {
+                "lineNumber": 114719,
+                "originalJapaneseLine": "「……シーザー、言ッテマセン」",
+                "translatedEnglishLine": "“...Caesar said no such thing.”"
+            },
+            {
+                "lineNumber": 114720,
+                "originalJapaneseLine": "「最近、体にガタが来てるのか、",
+                "translatedEnglishLine": "“Maybe my body's starting to wear out lately."
+            },
+            {
+                "lineNumber": 114721,
+                "originalJapaneseLine": "　サテラ様を肩に乗せると",
+                "translatedEnglishLine": "Whenever I carry Lady Satella on my shoulder,"
+            },
+            {
+                "lineNumber": 114722,
+                "originalJapaneseLine": "　肩が凝って仕方ないなーとか……」",
+                "translatedEnglishLine": "my shoulders get unbearably stiff...”"
+            },
+            {
+                "lineNumber": 114723,
+                "originalJapaneseLine": "「なに！？」",
+                "translatedEnglishLine": "“What!?”"
+            },
+            {
+                "lineNumber": 114724,
+                "originalJapaneseLine": "「それからたまにはご飯が食べたい。",
+                "translatedEnglishLine": "“And sometimes I'd like to eat a meal."
+            },
+            {
+                "lineNumber": 114725,
+                "originalJapaneseLine": "　ああ、チーズケーキとかいいよなぁ……",
+                "translatedEnglishLine": "Ah, something like cheesecake would be so nice..."
+            },
+            {
+                "lineNumber": 114726,
+                "originalJapaneseLine": "　一度でいいから食ってみたいぜ……」",
+                "translatedEnglishLine": "I'd love to try it just once...”"
+            },
+            {
+                "lineNumber": 114727,
+                "originalJapaneseLine": "「ああ……",
+                "translatedEnglishLine": "\"Ah..."
+            },
+            {
+                "lineNumber": 114728,
+                "originalJapaneseLine": "　チーズケーキ、チーズケーキ、チーズケーキ……」",
+                "translatedEnglishLine": "Cheesecake, cheesecake, cheesecake...\""
+            },
+            {
+                "lineNumber": 114729,
+                "originalJapaneseLine": "「ところで",
+                "translatedEnglishLine": "\"By the way,"
+            },
+            {
+                "lineNumber": 114730,
+                "originalJapaneseLine": "　チーズケーキってどんな味だ？」",
+                "translatedEnglishLine": "what does cheesecake taste like?\""
+            },
+            {
+                "lineNumber": 114731,
+                "originalJapaneseLine": "「とか言ってたれす」",
+                "translatedEnglishLine": "“...That's what he was complaining about, resu!”"
+            },
+            {
+                "lineNumber": 114732,
+                "originalJapaneseLine": "「イ……」",
+                "translatedEnglishLine": "\"I...\""
+            },
+            {
+                "lineNumber": 114733,
+                "originalJapaneseLine": "「……言ッテナイ」",
+                "translatedEnglishLine": "“...I didn't say that.”"
+            },
+            {
+                "lineNumber": 114734,
+                "originalJapaneseLine": "「……本当に言ってたのか？」",
+                "translatedEnglishLine": "“...Did he really say that?”"
+            },
+            {
+                "lineNumber": 114735,
+                "originalJapaneseLine": "「本当れすよ？」",
+                "translatedEnglishLine": "“It's true, resu!”"
+            },
+            {
+                "lineNumber": 114736,
+                "originalJapaneseLine": "「お、お前！　そういう話はちゃんとしろ！",
+                "translatedEnglishLine": "“Y-You! You should have just told me!"
+            },
+            {
+                "lineNumber": 114737,
+                "originalJapaneseLine": "　してもサテラは怒ったりしないぞ！」",
+                "translatedEnglishLine": "Even if you complain, Satella won't get mad at you!”"
+            },
+            {
+                "lineNumber": 114738,
+                "originalJapaneseLine": "「……ハ、ハイ」",
+                "translatedEnglishLine": "\"...Y-Yes.\""
+            },
+            {
+                "lineNumber": 114739,
+                "originalJapaneseLine": "「サテラは初めてお前を情けないと思ったぞ！",
+                "translatedEnglishLine": "“This is the first time you've disappointed me!"
+            },
+            {
+                "lineNumber": 114740,
+                "originalJapaneseLine": "　そんな話もしてくれないとは！」",
+                "translatedEnglishLine": "You wouldn't even tell me something like that!”"
+            },
+            {
+                "lineNumber": 114741,
+                "originalJapaneseLine": "「イエ、シーザー……」",
+                "translatedEnglishLine": "\"No, Caesar...\""
+            },
+            {
+                "lineNumber": 114742,
+                "originalJapaneseLine": "「来い！　お前に最高の",
+                "translatedEnglishLine": "“Come on! I'll feed you the best"
+            },
+            {
+                "lineNumber": 114743,
+                "originalJapaneseLine": "　チーズケーキを食わせてやる！」",
+                "translatedEnglishLine": "cheesecake!”"
+            },
+            {
+                "lineNumber": 114744,
+                "originalJapaneseLine": "「……サテラ様、待ッテクダサイ」",
+                "translatedEnglishLine": "\"...Lady Satella, please wait.\""
+            },
+            {
+                "lineNumber": 114745,
+                "originalJapaneseLine": "「何をチンタラしてる！」",
+                "translatedEnglishLine": "\"What are you dawdling for!?\""
+            },
+            {
+                "lineNumber": 114746,
+                "originalJapaneseLine": "「ア、アア……」",
+                "translatedEnglishLine": "\"Ah, ah...\""
+            },
+            {
+                "lineNumber": 114747,
+                "originalJapaneseLine": "サテラはシーザーの手を",
+                "translatedEnglishLine": "Satella grabbed Caesar's hand"
+            },
+            {
+                "lineNumber": 114748,
+                "originalJapaneseLine": "ぐいぐいと引っ張って行ってしまった。",
+                "translatedEnglishLine": "and forcefully pulled him away."
+            },
+            {
+                "lineNumber": 114749,
+                "originalJapaneseLine": "「あいつ、身内にはトコトン甘いな……」",
+                "translatedEnglishLine": "\"That girl is completely lenient with her own...\""
+            },
+            {
+                "lineNumber": 114750,
+                "originalJapaneseLine": "「そもそも飯とか食えるのか？",
+                "translatedEnglishLine": "\"Can he even eat food in the first place?"
+            },
+            {
+                "lineNumber": 114751,
+                "originalJapaneseLine": "　ってのは置いといて……」",
+                "translatedEnglishLine": "Let's put that aside...\""
+            },
+            {
+                "lineNumber": 114752,
+                "originalJapaneseLine": "「本当の本当に言ってたのか？」",
+                "translatedEnglishLine": "\"Did he really, really say that?\""
+            },
+            {
+                "lineNumber": 114753,
+                "originalJapaneseLine": "「はいなのれす、バッチリ言ってたれす」",
+                "translatedEnglishLine": "\"Yes, resu, he definitely said it, resu.\""
+            },
+            {
+                "lineNumber": 114754,
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": 114755,
+                "originalJapaneseLine": "「まあ、この際それはどっちでもいいとして……」",
+                "translatedEnglishLine": "\"Well, at this point, that doesn't really matter...\""
+            },
+            {
+                "lineNumber": 114756,
+                "originalJapaneseLine": "「シーザーもうろたえるんだなぁ」",
+                "translatedEnglishLine": "\"Caesar really does get flustered, huh.\""
+            },
+            {
+                "lineNumber": 114757,
+                "originalJapaneseLine": "「シーザーちゃんも普通の男の子れすよ？」",
+                "translatedEnglishLine": "\"Caesar-chan is just a normal boy, resu!\""
+            },
+            {
+                "lineNumber": 114758,
+                "originalJapaneseLine": "「男の子って年齢なのかアイツ……」",
+                "translatedEnglishLine": "\"I wonder if he's even the age of a boy...\""
+            },
+            {
+                "lineNumber": 114759,
+                "originalJapaneseLine": "「これが平和に繋がる戦いなら、",
+                "translatedEnglishLine": "\"If this is a battle that leads to peace,"
+            },
+            {
+                "lineNumber": 114760,
+                "originalJapaneseLine": "　私も共に……",
+                "translatedEnglishLine": "I will fight alongside you...\""
+            }
+        ]
+    }
+}

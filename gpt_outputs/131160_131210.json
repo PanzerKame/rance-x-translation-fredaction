@@ -1,0 +1,270 @@
+{
+    "id": "resp_07b49cd62610da8f0068ef6c2642288197aa52a1a19567f8c4",
+    "created_at": 1760521254,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "usage": {
+        "input_tokens": 1415,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 1766,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3181
+    },
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 131161,
+                "originalJapaneseLine": "　ある程度の数、寄越して頂いて……」",
+                "translatedEnglishLine": "a contingent of Black Knights...\""
+            },
+            {
+                "lineNumber": 131162,
+                "originalJapaneseLine": "「問題はどのルートを通るかですが……」",
+                "translatedEnglishLine": "\"The main question is which route they should take...\""
+            },
+            {
+                "lineNumber": 131163,
+                "originalJapaneseLine": "「このルートは如何ですかな？",
+                "translatedEnglishLine": "\"How about this route?"
+            },
+            {
+                "lineNumber": 131164,
+                "originalJapaneseLine": "　途中で補給も行えば行軍も随分と楽に……」",
+                "translatedEnglishLine": "If we can secure supply lines along the route, the march will be much easier...\""
+            },
+            {
+                "lineNumber": 131165,
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": 131166,
+                "originalJapaneseLine": "それをランスは遠くからつまらなそうに眺めていた。",
+                "translatedEnglishLine": "Rance was looking at them from afar with a bored expression."
+            },
+            {
+                "lineNumber": 131167,
+                "originalJapaneseLine": "「ただいま戻りました、ランス様。",
+                "translatedEnglishLine": "\"I'm back, Lord Rance."
+            },
+            {
+                "lineNumber": 131168,
+                "originalJapaneseLine": "　皆さんにお茶をお届けしてきましたよ」",
+                "translatedEnglishLine": "I've just served some tea to everyone.\""
+            },
+            {
+                "lineNumber": 131169,
+                "originalJapaneseLine": "「おう、会議の様子はどうだった？」",
+                "translatedEnglishLine": "\"Oh, how did the meeting go?\""
+            },
+            {
+                "lineNumber": 131170,
+                "originalJapaneseLine": "「皆さんスゴイですよ。",
+                "translatedEnglishLine": "\"Everyone is so amazing."
+            },
+            {
+                "lineNumber": 131171,
+                "originalJapaneseLine": "　私じゃ理解できないようなことを",
+                "translatedEnglishLine": "They're discussing all sorts of things"
+            },
+            {
+                "lineNumber": 131172,
+                "originalJapaneseLine": "　沢山お話し合われています」",
+                "translatedEnglishLine": "that are far beyond my understanding.\""
+            },
+            {
+                "lineNumber": 131173,
+                "originalJapaneseLine": "「つまらん」",
+                "translatedEnglishLine": "\"Boring.\""
+            },
+            {
+                "lineNumber": 131174,
+                "originalJapaneseLine": "「えっ？」",
+                "translatedEnglishLine": "\"Huh?\""
+            },
+            {
+                "lineNumber": 131175,
+                "originalJapaneseLine": "「俺のすることなんて何もないではないか」",
+                "translatedEnglishLine": "\"It seems there's absolutely nothing for me to do, is there?\""
+            },
+            {
+                "lineNumber": 131176,
+                "originalJapaneseLine": "「おーい、ウルザちゃん！」",
+                "translatedEnglishLine": "\"Hey, Urza-chan!\""
+            },
+            {
+                "lineNumber": 131177,
+                "originalJapaneseLine": "「はい？　どうしました？」",
+                "translatedEnglishLine": "\"Yes? What is it?\""
+            },
+            {
+                "lineNumber": 131178,
+                "originalJapaneseLine": "「こうして各国同士が",
+                "translatedEnglishLine": "\"Now the nations have started"
+            },
+            {
+                "lineNumber": 131179,
+                "originalJapaneseLine": "　協力しあうようになったが……」",
+                "translatedEnglishLine": "cooperating with each other, but...\""
+            },
+            {
+                "lineNumber": 131180,
+                "originalJapaneseLine": "「俺の役目ってこれで終わり？",
+                "translatedEnglishLine": "\"Is my role over now?"
+            },
+            {
+                "lineNumber": 131181,
+                "originalJapaneseLine": "　もう人類は安泰？」",
+                "translatedEnglishLine": "Does that mean humanity's future is finally secure?\""
+            },
+            {
+                "lineNumber": 131182,
+                "originalJapaneseLine": "「とんでもない」",
+                "translatedEnglishLine": "\"Not at all.\""
+            },
+            {
+                "lineNumber": 131183,
+                "originalJapaneseLine": "「本来の人類は一ヶ月もしてれば",
+                "translatedEnglishLine": "\"Originally, humanity would have lasted only about a month"
+            },
+            {
+                "lineNumber": 131184,
+                "originalJapaneseLine": "　魔軍に滅ぼされていました」",
+                "translatedEnglishLine": "before being wiped out by the Monster Army.\""
+            },
+            {
+                "lineNumber": 131185,
+                "originalJapaneseLine": "「今はようやくそれが三ヶ月に延びただけです」",
+                "translatedEnglishLine": "\"But now, we have finally managed to extend that lifespan to three months.\""
+            },
+            {
+                "lineNumber": 131186,
+                "originalJapaneseLine": "「むむ、延命に過ぎないわけか」",
+                "translatedEnglishLine": "\"Hmm, so it's merely a temporary reprieve.\""
+            },
+            {
+                "lineNumber": 131187,
+                "originalJapaneseLine": "「はい、これから先がどうなるか。",
+                "translatedEnglishLine": "\"Yes, what happens next"
+            },
+            {
+                "lineNumber": 131188,
+                "originalJapaneseLine": "　それはランス総統の働き次第ですね」",
+                "translatedEnglishLine": "depends entirely on your actions as Supreme Commander Rance.\""
+            },
+            {
+                "lineNumber": 131189,
+                "originalJapaneseLine": "「うむ、それだ」",
+                "translatedEnglishLine": "\"Yes, that's it.\""
+            },
+            {
+                "lineNumber": 131190,
+                "originalJapaneseLine": "「それ？」",
+                "translatedEnglishLine": "\"That?\""
+            },
+            {
+                "lineNumber": 131191,
+                "originalJapaneseLine": "「暇だぞ、何かすることないのか？」",
+                "translatedEnglishLine": "\"I'm bored, isn't there something to do?\""
+            },
+            {
+                "lineNumber": 131192,
+                "originalJapaneseLine": "「もう……」",
+                "translatedEnglishLine": "\"Geez...\""
+            },
+            {
+                "lineNumber": 131193,
+                "originalJapaneseLine": "ウルザが苦笑を浮かべる。",
+                "translatedEnglishLine": "Urza gave a wry smile."
+            },
+            {
+                "lineNumber": 131194,
+                "originalJapaneseLine": "「忙しいと文句言うのに、",
+                "translatedEnglishLine": "\"You complain about how busy you are when we have work,"
+            },
+            {
+                "lineNumber": 131195,
+                "originalJapaneseLine": "　暇なら暇で文句言うんですね」",
+                "translatedEnglishLine": "and then you complain about being bored when you're free.\""
+            },
+            {
+                "lineNumber": 131196,
+                "originalJapaneseLine": "「ええい、誤魔化すな。",
+                "translatedEnglishLine": "\"Hey, don't dodge the question."
+            },
+            {
+                "lineNumber": 131197,
+                "originalJapaneseLine": "　なんかやることないのか？」",
+                "translatedEnglishLine": "Isn't there something for me to do?\""
+            },
+            {
+                "lineNumber": 131198,
+                "originalJapaneseLine": "「せっかく総統閣下様になったってのに、",
+                "translatedEnglishLine": "\"Even though I've finally become the Supreme Commander,"
+            },
+            {
+                "lineNumber": 131199,
+                "originalJapaneseLine": "　ソファでだらだらしてるだけじゃつまらん」",
+                "translatedEnglishLine": "just lazing around on this sofa is incredibly dull.\""
+            },
+            {
+                "lineNumber": 131200,
+                "originalJapaneseLine": "「今は特に何も」",
+                "translatedEnglishLine": "\"There's nothing in particular right now.\""
+            },
+            {
+                "lineNumber": 131201,
+                "originalJapaneseLine": "「なにー？　何故だ？」",
+                "translatedEnglishLine": "\"What? Why?\""
+            },
+            {
+                "lineNumber": 131202,
+                "originalJapaneseLine": "「現在ランスさんが思いきり働けるようにする為、",
+                "translatedEnglishLine": "\"Currently, we're hurriedly preparing the organization's foundation"
+            },
+            {
+                "lineNumber": 131203,
+                "originalJapaneseLine": "　組織の土台を急ごしらえで作っているところです」",
+                "translatedEnglishLine": "so that you can exercise your abilities to the fullest.\""
+            },
+            {
+                "lineNumber": 131204,
+                "originalJapaneseLine": "「ランス総統に働いて頂くのは、",
+                "translatedEnglishLine": "\"Your real work as Supreme Commander will begin"
+            },
+            {
+                "lineNumber": 131205,
+                "originalJapaneseLine": "　その作業が終わってからですね」",
+                "translatedEnglishLine": "once that preparation is complete.\""
+            },
+            {
+                "lineNumber": 131206,
+                "originalJapaneseLine": "「まだるっこしいのだな……」",
+                "translatedEnglishLine": "\"That's tedious...\""
+            },
+            {
+                "lineNumber": 131207,
+                "originalJapaneseLine": "「ふふ、我慢して下さい。",
+                "translatedEnglishLine": "\"Hehe, please be patient."
+            },
+            {
+                "lineNumber": 131208,
+                "originalJapaneseLine": "　耐えるのも仕事の内ですよ」",
+                "translatedEnglishLine": "Besides, learning to be patient is also part of your job.\""
+            },
+            {
+                "lineNumber": 131209,
+                "originalJapaneseLine": "「むー……つまらん……」",
+                "translatedEnglishLine": "\"Ugh... boring...\""
+            },
+            {
+                "lineNumber": 131210,
+                "originalJapaneseLine": "「あ、ランス様、",
+                "translatedEnglishLine": "\"Ah, Lord Rance,"
+            }
+        ]
+    }
+}

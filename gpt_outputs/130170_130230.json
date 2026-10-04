@@ -1,0 +1,320 @@
+{
+    "id": "resp_026a118c226aafcb0068f11745efac81959432340b1d37d152",
+    "created_at": 1760630598,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "usage": {
+        "input_tokens": 1717,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2242,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3959
+    },
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 130171,
+                "originalJapaneseLine": "「……ふむ」",
+                "translatedEnglishLine": "\"...Hmm.\""
+            },
+            {
+                "lineNumber": 130172,
+                "originalJapaneseLine": "（魔軍に攻められて人類がピンチ……）",
+                "translatedEnglishLine": "(Humanity is in deep trouble, attacked by the Monster Army...)"
+            },
+            {
+                "lineNumber": 130173,
+                "originalJapaneseLine": "（人類は各国の仲が悪くバラバラなので",
+                "translatedEnglishLine": "(And since the nations are at each other's throats and completely divided,"
+            },
+            {
+                "lineNumber": 130174,
+                "originalJapaneseLine": "　もっとピンチ……）",
+                "translatedEnglishLine": "the crisis is even worse...)"
+            },
+            {
+                "lineNumber": 130175,
+                "originalJapaneseLine": "（なので、俺に外交官や大使をして",
+                "translatedEnglishLine": "(So they want me to act as some diplomat or ambassador"
+            },
+            {
+                "lineNumber": 130176,
+                "originalJapaneseLine": "　各国をまとめろ、と……）",
+                "translatedEnglishLine": "and unite the countries...)"
+            },
+            {
+                "lineNumber": 130177,
+                "originalJapaneseLine": "（…………）",
+                "translatedEnglishLine": "(........)"
+            },
+            {
+                "lineNumber": 130178,
+                "originalJapaneseLine": "「めんどいからヤダ」",
+                "translatedEnglishLine": "\"Too much of a pain in the ass. No way.\""
+            },
+            {
+                "lineNumber": 130179,
+                "originalJapaneseLine": "「ええっ！？」",
+                "translatedEnglishLine": "\"Whaaat!?\""
+            },
+            {
+                "lineNumber": 130180,
+                "originalJapaneseLine": "「なんで俺がそんな面倒なことを……」",
+                "translatedEnglishLine": "\"Why should I have to do something so incredibly annoying?\""
+            },
+            {
+                "lineNumber": 130181,
+                "originalJapaneseLine": "「それよりもJAPAN辺りに避難しよう。",
+                "translatedEnglishLine": "\"Besides, we can just evacuate somewhere like Nippon instead."
+            },
+            {
+                "lineNumber": 130182,
+                "originalJapaneseLine": "　香ちゃんの実家に帰って、そうだな……」",
+                "translatedEnglishLine": "We'll return to Kou-chan's family home, yeah...\""
+            },
+            {
+                "lineNumber": 130183,
+                "originalJapaneseLine": "「久しぶりに皆で温泉にでも入るか！",
+                "translatedEnglishLine": "\"We can all relax in a nice, hot spring bath together after all this time!"
+            },
+            {
+                "lineNumber": 130184,
+                "originalJapaneseLine": "　がははははははははははは！」",
+                "translatedEnglishLine": "Gahahahahahahahaha!\""
+            },
+            {
+                "lineNumber": 130185,
+                "originalJapaneseLine": "「いい加減にしないか、ランス！」",
+                "translatedEnglishLine": "\"Cut it out, Rance!\""
+            },
+            {
+                "lineNumber": 130186,
+                "originalJapaneseLine": "「なんだ、大声を出して」",
+                "translatedEnglishLine": "\"What is it? Yelling so loud.\""
+            },
+            {
+                "lineNumber": 130187,
+                "originalJapaneseLine": "「貴様はこんな小さな子が、藁にもすがる思いで",
+                "translatedEnglishLine": "\"Are you going to brush aside the hand of this little girl,"
+            },
+            {
+                "lineNumber": 130188,
+                "originalJapaneseLine": "　伸ばした手を払いのけるつもりか……」",
+                "translatedEnglishLine": "who's reaching out to you in desperation...?\""
+            },
+            {
+                "lineNumber": 130189,
+                "originalJapaneseLine": "「そんなのは騎士の……",
+                "translatedEnglishLine": "\"That is unworthy of a knight—"
+            },
+            {
+                "lineNumber": 130190,
+                "originalJapaneseLine": "　いや、男の風上にもおけない！」",
+                "translatedEnglishLine": "no, it's unworthy of a decent man!\""
+            },
+            {
+                "lineNumber": 130191,
+                "originalJapaneseLine": "「む、むむむ……」",
+                "translatedEnglishLine": "\"M-mmm...\""
+            },
+            {
+                "lineNumber": 130192,
+                "originalJapaneseLine": "「確かに……これはちょっと……」",
+                "translatedEnglishLine": "\"Certainly... this is a bit...\""
+            },
+            {
+                "lineNumber": 130193,
+                "originalJapaneseLine": "「ひどいかもぉ……？」",
+                "translatedEnglishLine": "\"That's a bit cruel, isn't it...?\""
+            },
+            {
+                "lineNumber": 130194,
+                "originalJapaneseLine": "メイド達までもが、",
+                "translatedEnglishLine": "Even the maids,"
+            },
+            {
+                "lineNumber": 130195,
+                "originalJapaneseLine": "ひそひそとランスの非難を囁き合う。",
+                "translatedEnglishLine": "whisper quietly among themselves to criticize Rance."
+            },
+            {
+                "lineNumber": 130196,
+                "originalJapaneseLine": "「なんだ、お前らグチャグチャと！",
+                "translatedEnglishLine": "\"What's with all the whining and whispering, you lot!"
+            },
+            {
+                "lineNumber": 130197,
+                "originalJapaneseLine": "　文句があるのか！？」",
+                "translatedEnglishLine": "Got a problem with me!?\""
+            },
+            {
+                "lineNumber": 130198,
+                "originalJapaneseLine": "「あ、あの、ランス様……」",
+                "translatedEnglishLine": "\"Ah, um, Lord Rance...\""
+            },
+            {
+                "lineNumber": 130199,
+                "originalJapaneseLine": "「お前まで俺様に意見する気か！？」",
+                "translatedEnglishLine": "\"Are you trying to lecture me too!?\""
+            },
+            {
+                "lineNumber": 130200,
+                "originalJapaneseLine": "「ひえっ！」",
+                "translatedEnglishLine": "\"Eek!\""
+            },
+            {
+                "lineNumber": 130201,
+                "originalJapaneseLine": "「あ、あの、とりあえず、こちらに……」",
+                "translatedEnglishLine": "\"Um, for now, over here...\""
+            },
+            {
+                "lineNumber": 130202,
+                "originalJapaneseLine": "「な、なんだ、手を引っ張るんじゃない」",
+                "translatedEnglishLine": "\"W-What? Hey, stop pulling my arm!\""
+            },
+            {
+                "lineNumber": 130203,
+                "originalJapaneseLine": "「こちらに、こちらに……」",
+                "translatedEnglishLine": "\"Over here, over here...\""
+            },
+            {
+                "lineNumber": 130204,
+                "originalJapaneseLine": "シィルがランスを連れて奥の部屋へ消えていく。",
+                "translatedEnglishLine": "Sill takes Rance and disappears into the inner room."
+            },
+            {
+                "lineNumber": 130205,
+                "originalJapaneseLine": "「シィルさん、どうしたんでしょう……」",
+                "translatedEnglishLine": "\"I wonder what's wrong with Sill-san...\""
+            },
+            {
+                "lineNumber": 130206,
+                "originalJapaneseLine": "「さあ……」",
+                "translatedEnglishLine": "\"Who knows...\""
+            },
+            {
+                "lineNumber": 130207,
+                "originalJapaneseLine": "「なにーーーッ！？",
+                "translatedEnglishLine": "\"Whaaaat!?"
+            },
+            {
+                "lineNumber": 130208,
+                "originalJapaneseLine": "　お前、奴隷の癖に俺に命令する気かーーッ！？」",
+                "translatedEnglishLine": "You, a slave, ordering me arooound!?\""
+            },
+            {
+                "lineNumber": 130209,
+                "originalJapaneseLine": "「ひゃいんっ！",
+                "translatedEnglishLine": "\"Hyaain!"
+            },
+            {
+                "lineNumber": 130210,
+                "originalJapaneseLine": "　ごめんなさい、ごめんなさい、ランス様！」",
+                "translatedEnglishLine": "Sorry, sorry, Lord Rance!\""
+            },
+            {
+                "lineNumber": 130211,
+                "originalJapaneseLine": "奥から聞こえる大声に、思わず香が肩を竦める。",
+                "translatedEnglishLine": "Kou flinched at the shouts coming from the inner room."
+            },
+            {
+                "lineNumber": 130212,
+                "originalJapaneseLine": "「……だ、大丈夫でしょうか」",
+                "translatedEnglishLine": "\"...I-is that going to be okay?\""
+            },
+            {
+                "lineNumber": 130213,
+                "originalJapaneseLine": "「さあ。",
+                "translatedEnglishLine": "\"Who knows."
+            },
+            {
+                "lineNumber": 130214,
+                "originalJapaneseLine": "　ここはシィルさんにお任せしましょう」",
+                "translatedEnglishLine": "Let's leave it to Sill-san.\""
+            },
+            {
+                "lineNumber": 130215,
+                "originalJapaneseLine": "「ふん……」",
+                "translatedEnglishLine": "\"Hmph...\""
+            },
+            {
+                "lineNumber": 130216,
+                "originalJapaneseLine": "しばらくすると奥からランスが戻って来た。",
+                "translatedEnglishLine": "After a while, Rance returned from the back room."
+            },
+            {
+                "lineNumber": 130217,
+                "originalJapaneseLine": "「に、兄様……あの、その……」",
+                "translatedEnglishLine": "\"B-Brother... Um, what happened...?\""
+            },
+            {
+                "lineNumber": 130218,
+                "originalJapaneseLine": "「……仕方ないな。",
+                "translatedEnglishLine": "\"...Fine, I guess I've got no choice."
+            },
+            {
+                "lineNumber": 130219,
+                "originalJapaneseLine": "　話だけは聞くか」",
+                "translatedEnglishLine": "I'll at least listen to what you have to say.\""
+            },
+            {
+                "lineNumber": 130220,
+                "originalJapaneseLine": "「えっ！？」",
+                "translatedEnglishLine": "\"Eh!?\""
+            },
+            {
+                "lineNumber": 130221,
+                "originalJapaneseLine": "「おい、クルックー、もっと詳しい話を聞かせろ。",
+                "translatedEnglishLine": "\"Hey, Crook. Tell me everything you know in detail."
+            },
+            {
+                "lineNumber": 130222,
+                "originalJapaneseLine": "　あと、具体的にどうするべきか提案してみろ」",
+                "translatedEnglishLine": "Also, suggest what exactly should be done.\""
+            },
+            {
+                "lineNumber": 130223,
+                "originalJapaneseLine": "「はい、分かりました。",
+                "translatedEnglishLine": "\"Yes, understood."
+            },
+            {
+                "lineNumber": 130224,
+                "originalJapaneseLine": "　案ならいくつかありますので少々お待ちを……」",
+                "translatedEnglishLine": "I have a few ideas, so please wait a moment...\""
+            },
+            {
+                "lineNumber": 130225,
+                "originalJapaneseLine": "「あいたた……ひう……",
+                "translatedEnglishLine": "\"Ouch... hiyu..."
+            },
+            {
+                "lineNumber": 130226,
+                "originalJapaneseLine": "　たんこぶになっちゃってる……ひんひん……」",
+                "translatedEnglishLine": "I have a bump... sniff sniff...\""
+            },
+            {
+                "lineNumber": 130227,
+                "originalJapaneseLine": "遅れて奥から出てきたシィルに香が駆け寄る。",
+                "translatedEnglishLine": "Kou runs up to Sill, who came out late from the back."
+            },
+            {
+                "lineNumber": 130228,
+                "originalJapaneseLine": "「あ、あの、シィルさん、これはいったい……」",
+                "translatedEnglishLine": "\"U-Um, Sill-san, what on earth did you do...?\""
+            },
+            {
+                "lineNumber": 130229,
+                "originalJapaneseLine": "「えへへ……」",
+                "translatedEnglishLine": "\"Ehehe...\""
+            },
+            {
+                "lineNumber": 130230,
+                "originalJapaneseLine": "殴られた頭をさすりながら、シィルはＶサインした。",
+                "translatedEnglishLine": "Rubbing her head where he'd hit her, Sill made a V-sign."
+            }
+        ]
+    }
+}

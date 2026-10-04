@@ -1,0 +1,270 @@
+{
+    "id": "resp_03d35b08dcb9f49d0068efda9d09a0819094fdc43fbc7658b6",
+    "created_at": 1760549533,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "usage": {
+        "input_tokens": 1508,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 1933,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3441
+    },
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 62221,
+                "originalJapaneseLine": "　ちょっぴり楽をしようとするのが玉に瑕だな。",
+                "translatedEnglishLine": "have one little flaw: trying to make things a little easier for myself."
+            },
+            {
+                "lineNumber": 62222,
+                "originalJapaneseLine": "　がははははははは！",
+                "translatedEnglishLine": "Gahahahahahaha!\""
+            },
+            {
+                "lineNumber": 62223,
+                "originalJapaneseLine": "「……………………」",
+                "translatedEnglishLine": "\"................\""
+            },
+            {
+                "lineNumber": 62224,
+                "originalJapaneseLine": "（あははは、ぜんっぜんフォローになってない）",
+                "translatedEnglishLine": "(Ahahaha, that's not supportive at all.)"
+            },
+            {
+                "lineNumber": 62225,
+                "originalJapaneseLine": "（…………あれでもマシな方なのよね……）",
+                "translatedEnglishLine": "(...Even that is pretty good for him...)"
+            },
+            {
+                "lineNumber": 62226,
+                "originalJapaneseLine": "「あー……だからだな、マリア……」",
+                "translatedEnglishLine": "\"Ah... that's why, Maria...\""
+            },
+            {
+                "lineNumber": 62227,
+                "originalJapaneseLine": "「………………」",
+                "translatedEnglishLine": "\"................\""
+            },
+            {
+                "lineNumber": 62228,
+                "originalJapaneseLine": "（……くそ。反応がない……",
+                "translatedEnglishLine": "(...Damn. No reaction..."
+            },
+            {
+                "lineNumber": 62229,
+                "originalJapaneseLine": "　なんかめんどくさくなってきたぞ……",
+                "translatedEnglishLine": "I'm starting to feel annoyed..."
+            },
+            {
+                "lineNumber": 62230,
+                "originalJapaneseLine": "　言いたいことだけ言って、放っておくか）",
+                "translatedEnglishLine": "I'll just say what I want to say and leave it be.)"
+            },
+            {
+                "lineNumber": 62231,
+                "originalJapaneseLine": "「あー、もういい。",
+                "translatedEnglishLine": "\"Ah, whatever."
+            },
+            {
+                "lineNumber": 62232,
+                "originalJapaneseLine": "　作りたくないなら作らんでいい。",
+                "translatedEnglishLine": "If you don't want to make it, then you don't have to."
+            },
+            {
+                "lineNumber": 62233,
+                "originalJapaneseLine": "　無理に戦えとも言わん」",
+                "translatedEnglishLine": "I won't force you to fight either.\""
+            },
+            {
+                "lineNumber": 62234,
+                "originalJapaneseLine": "「…………だから、泣くな」",
+                "translatedEnglishLine": "\"...So don't cry.\""
+            },
+            {
+                "lineNumber": 62235,
+                "originalJapaneseLine": "「ランス…………」",
+                "translatedEnglishLine": "\"Rance...\""
+            },
+            {
+                "lineNumber": 62236,
+                "originalJapaneseLine": "「はー………」",
+                "translatedEnglishLine": "\"Haa...\""
+            },
+            {
+                "lineNumber": 62237,
+                "originalJapaneseLine": "「どうかしましたか？」",
+                "translatedEnglishLine": "\"Is something wrong?\""
+            },
+            {
+                "lineNumber": 62238,
+                "originalJapaneseLine": "「ううん、ランス、やっぱりかっこいいなって……",
+                "translatedEnglishLine": "\"No, I was just thinking how cool Rance is after all..."
+            },
+            {
+                "lineNumber": 62239,
+                "originalJapaneseLine": "　って、うああぁ！　なんでもないです！」",
+                "translatedEnglishLine": "Wait, uaaah! It's nothing!\""
+            },
+            {
+                "lineNumber": 62240,
+                "originalJapaneseLine": "「……そうですね」",
+                "translatedEnglishLine": "\"...That's right.\""
+            },
+            {
+                "lineNumber": 62241,
+                "originalJapaneseLine": "「はえ？」",
+                "translatedEnglishLine": "\"Huh?\""
+            },
+            {
+                "lineNumber": 62242,
+                "originalJapaneseLine": "「…………はぁ。",
+                "translatedEnglishLine": "\"...Haa."
+            },
+            {
+                "lineNumber": 62243,
+                "originalJapaneseLine": "　もうちょっと、優しく慰めて欲しかったかなぁ」",
+                "translatedEnglishLine": "I wish you had comforted me a bit more gently.\""
+            },
+            {
+                "lineNumber": 62244,
+                "originalJapaneseLine": "「何を言うか。そもそも、お前が自分の得意分野で",
+                "translatedEnglishLine": "\"What are you saying? After all, you just got completely beaten in your own specialty."
+            },
+            {
+                "lineNumber": 62245,
+                "originalJapaneseLine": "　ボロ負けしたってだけの話だろうが」",
+                "translatedEnglishLine": "That's all it is.\""
+            },
+            {
+                "lineNumber": 62246,
+                "originalJapaneseLine": "「ふんだ。可愛さでは勝ってますよーだ」",
+                "translatedEnglishLine": "\"Hmph. At least I'm winning in cuteness!\""
+            },
+            {
+                "lineNumber": 62247,
+                "originalJapaneseLine": "言いながら、マリアは眼鏡を外して、",
+                "translatedEnglishLine": "Saying that, Maria removed her glasses,"
+            },
+            {
+                "lineNumber": 62248,
+                "originalJapaneseLine": "濡れた目元をゴシゴシ拭う。",
+                "translatedEnglishLine": "and rubbed her wet eyes."
+            },
+            {
+                "lineNumber": 62249,
+                "originalJapaneseLine": "「ふう…………うん、よし。",
+                "translatedEnglishLine": "\"Phew... yeah, okay."
+            },
+            {
+                "lineNumber": 62250,
+                "originalJapaneseLine": "　自分が好きでやってることだもんね。",
+                "translatedEnglishLine": "It's something I like to do."
+            },
+            {
+                "lineNumber": 62251,
+                "originalJapaneseLine": "　泣いても……誰も助けてくれないことだもん」",
+                "translatedEnglishLine": "Even if I cry... no one is going to help me.\""
+            },
+            {
+                "lineNumber": 62252,
+                "originalJapaneseLine": "「ふふん。ベッドでたっぷり慰めてやろうか」",
+                "translatedEnglishLine": "\"Heh heh. How about I comfort you plenty in bed?\""
+            },
+            {
+                "lineNumber": 62253,
+                "originalJapaneseLine": "「ばか。そればっかり言わないの」",
+                "translatedEnglishLine": "\"Idiot. Don’t say that all the time.\""
+            },
+            {
+                "lineNumber": 62254,
+                "originalJapaneseLine": "ランスを見上げて、マリアは少し、笑った。",
+                "translatedEnglishLine": "Looking up at Rance, Maria smiled a little."
+            },
+            {
+                "lineNumber": 62255,
+                "originalJapaneseLine": "「あのう……では、ランス様。",
+                "translatedEnglishLine": "\"Um... then, Lord Rance."
+            },
+            {
+                "lineNumber": 62256,
+                "originalJapaneseLine": "　魔人さんは……どうしましょう？」",
+                "translatedEnglishLine": "What shall we do about the Fiend...?\""
+            },
+            {
+                "lineNumber": 62257,
+                "originalJapaneseLine": "「おう。対策できるか、って話だが……」",
+                "translatedEnglishLine": "\"Yeah. The question is whether we can come up with a countermeasure...\""
+            },
+            {
+                "lineNumber": 62258,
+                "originalJapaneseLine": "「正直……悔しいけど、アレは解析できないわ。",
+                "translatedEnglishLine": "\"Honestly... it's frustrating, but we can't analyze that."
+            },
+            {
+                "lineNumber": 62259,
+                "originalJapaneseLine": "　結果を引き起こすだけの、",
+                "translatedEnglishLine": "It might be better to think of it as a special magic"
+            },
+            {
+                "lineNumber": 62260,
+                "originalJapaneseLine": "　特殊な魔法とでも考えた方がいいかも」",
+                "translatedEnglishLine": "that simply produces the desired result.\""
+            },
+            {
+                "lineNumber": 62261,
+                "originalJapaneseLine": "「……………………」",
+                "translatedEnglishLine": "\"................\""
+            },
+            {
+                "lineNumber": 62262,
+                "originalJapaneseLine": "「よし。あのガキは速攻で叩き殺す。",
+                "translatedEnglishLine": "\"Alright. We'll crush that brat instantly."
+            },
+            {
+                "lineNumber": 62263,
+                "originalJapaneseLine": "　妙な事はさせん方がいい」",
+                "translatedEnglishLine": "Better not let him do anything strange.\""
+            },
+            {
+                "lineNumber": 62264,
+                "originalJapaneseLine": "「ま……そうね。一番困るのは、",
+                "translatedEnglishLine": "\"Well... yeah. His biggest problem would be"
+            },
+            {
+                "lineNumber": 62265,
+                "originalJapaneseLine": "　発明品を作る時間を与えられない事のはずよ」",
+                "translatedEnglishLine": "not having the time to build his inventions.\""
+            },
+            {
+                "lineNumber": 62266,
+                "originalJapaneseLine": "「おう。問題は、どうやって炙り出すかだが……」",
+                "translatedEnglishLine": "\"Yeah. The problem is how to flush him out...\""
+            },
+            {
+                "lineNumber": 62267,
+                "originalJapaneseLine": "「あの……パイアールさんて、どうやってあんなに",
+                "translatedEnglishLine": "\"Um... Pi-R, just how"
+            },
+            {
+                "lineNumber": 62268,
+                "originalJapaneseLine": "　ロボットさんを作ってるのでしょう……？」",
+                "translatedEnglishLine": "does he make so many robots, I wonder...?\""
+            },
+            {
+                "lineNumber": 62269,
+                "originalJapaneseLine": "「あん？　どうやってって……マリアみたく、",
+                "translatedEnglishLine": "\"Huh? How, you ask... like Maria,"
+            },
+            {
+                "lineNumber": 62270,
+                "originalJapaneseLine": "　工場でなんかやってるんじゃないのか」",
+                "translatedEnglishLine": "isn't he doing something at a factory?\""
+            }
+        ]
+    }
+}

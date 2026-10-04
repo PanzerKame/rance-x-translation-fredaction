@@ -1,0 +1,320 @@
+{
+    "id": "resp_0631a7d1dceaf1eb0068f1721e9a9881979cc0b1749eb5489c",
+    "created_at": 1760653854,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "usage": {
+        "input_tokens": 1773,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2255,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 4028
+    },
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 165331,
+                "originalJapaneseLine": "　鬼の軍団は！",
+                "translatedEnglishLine": "this ogre army!\""
+            },
+            {
+                "lineNumber": 165332,
+                "originalJapaneseLine": "魔物大将軍ヨシフが、",
+                "translatedEnglishLine": "Monster Great General Joseph"
+            },
+            {
+                "lineNumber": 165333,
+                "originalJapaneseLine": "前線で常の如く上機嫌に笑っていた。",
+                "translatedEnglishLine": "was smiling cheerfully at the front lines as usual."
+            },
+            {
+                "lineNumber": 165334,
+                "originalJapaneseLine": "「鬼の部隊、順調に攻め上げています。",
+                "translatedEnglishLine": "\"The ogre unit is advancing steadily."
+            },
+            {
+                "lineNumber": 165335,
+                "originalJapaneseLine": "　鬼単体の強さと合わさり、",
+                "translatedEnglishLine": "Each ogre is powerful,"
+            },
+            {
+                "lineNumber": 165336,
+                "originalJapaneseLine": "　突撃に迷いも恐怖もありません」",
+                "translatedEnglishLine": "there is no hesitation or fear in their charges.\""
+            },
+            {
+                "lineNumber": 165337,
+                "originalJapaneseLine": "「まさに侵掠すること火の如く。",
+                "translatedEnglishLine": "\"Truly, their marauding is like fire."
+            },
+            {
+                "lineNumber": 165338,
+                "originalJapaneseLine": "　すさまじい勢いです」",
+                "translatedEnglishLine": "They have a tremendous momentum.\""
+            },
+            {
+                "lineNumber": 165339,
+                "originalJapaneseLine": "「はははは！",
+                "translatedEnglishLine": "\"Hahaha!"
+            },
+            {
+                "lineNumber": 165340,
+                "originalJapaneseLine": "　ならば望み通りどんどん突撃させろ！",
+                "translatedEnglishLine": "Then let them charge as much as they want!"
+            },
+            {
+                "lineNumber": 165341,
+                "originalJapaneseLine": "　人海戦術でリーザス軍を飲み込んでやれ！」",
+                "translatedEnglishLine": "Overwhelm the Leazas army using human wave tactics!\""
+            },
+            {
+                "lineNumber": 165342,
+                "originalJapaneseLine": "「はっ！」",
+                "translatedEnglishLine": "\"Yes!\""
+            },
+            {
+                "lineNumber": 165343,
+                "originalJapaneseLine": "「くくく、レキシントンは鬼を引き寄せるか、",
+                "translatedEnglishLine": "\"Heh heh heh, so Lexington attracts ogres."
+            },
+            {
+                "lineNumber": 165344,
+                "originalJapaneseLine": "　使えるな……」",
+                "translatedEnglishLine": "he's useful...\""
+            },
+            {
+                "lineNumber": 165345,
+                "originalJapaneseLine": "「ハッ！」",
+                "translatedEnglishLine": "\"Yes!\""
+            },
+            {
+                "lineNumber": 165346,
+                "originalJapaneseLine": "　",
+                "translatedEnglishLine": ""
+            },
+            {
+                "lineNumber": 165347,
+                "originalJapaneseLine": "　　＜ドンドンドンドン！＞",
+                "translatedEnglishLine": "<Thud thud thud thud!>"
+            },
+            {
+                "lineNumber": 165348,
+                "originalJapaneseLine": "威勢のいい声と共に、",
+                "translatedEnglishLine": "With a vigorous shout,"
+            },
+            {
+                "lineNumber": 165349,
+                "originalJapaneseLine": "一匹の鬼が太鼓を叩く。",
+                "translatedEnglishLine": "an ogre beat a drum."
+            },
+            {
+                "lineNumber": 165350,
+                "originalJapaneseLine": "それは戦士を鼓舞する血の鼓動。",
+                "translatedEnglishLine": "It was the bloodbeat that inspired the warriors."
+            },
+            {
+                "lineNumber": 165351,
+                "originalJapaneseLine": "その音に乗せられ、まるで古代の戦士のように、",
+                "translatedEnglishLine": "Riding that sound, like ancient warriors,"
+            },
+            {
+                "lineNumber": 165352,
+                "originalJapaneseLine": "赤く、青く、極彩色の鬼達が吼える。",
+                "translatedEnglishLine": "the ogres—red, blue, and every vivid color—roared."
+            },
+            {
+                "lineNumber": 165353,
+                "originalJapaneseLine": "「はははは！　戦いだあああ！",
+                "translatedEnglishLine": "\"Hahaha! To battle!"
+            },
+            {
+                "lineNumber": 165354,
+                "originalJapaneseLine": "　あああ、ばあああ、れえええ、ろおおお！」",
+                "translatedEnglishLine": "Go wiiiiild!\""
+            },
+            {
+                "lineNumber": 165355,
+                "originalJapaneseLine": "「うおおおお！",
+                "translatedEnglishLine": "\"Uoooo!"
+            },
+            {
+                "lineNumber": 165356,
+                "originalJapaneseLine": "　レキシントン様見てくれえええ！",
+                "translatedEnglishLine": "Look, Lord Lexington!"
+            },
+            {
+                "lineNumber": 165357,
+                "originalJapaneseLine": "　俺が死ぬとこ見ててくれえええ！」",
+                "translatedEnglishLine": "Watch me die!\""
+            },
+            {
+                "lineNumber": 165358,
+                "originalJapaneseLine": "「くっ！　なんて勢いだ！」",
+                "translatedEnglishLine": "\"Gah! What momentum!\""
+            },
+            {
+                "lineNumber": 165359,
+                "originalJapaneseLine": "死を恐れず、むしろ死を尊ぶ、",
+                "translatedEnglishLine": "Fearless of death, rather revering it,"
+            },
+            {
+                "lineNumber": 165360,
+                "originalJapaneseLine": "鬼達の突撃にさしもの赤軍も苦戦を強いられていた。",
+                "translatedEnglishLine": "the ogres' charge forced even the Red Army into a bitter struggle."
+            },
+            {
+                "lineNumber": 165361,
+                "originalJapaneseLine": "「一対一では戦わないで！",
+                "translatedEnglishLine": "\"Do not fight one-on-one!"
+            },
+            {
+                "lineNumber": 165362,
+                "originalJapaneseLine": "　一体に対して複数で当たって！」",
+                "translatedEnglishLine": "Attack each one with several!\""
+            },
+            {
+                "lineNumber": 165363,
+                "originalJapaneseLine": "（くっ、精鋭揃いの赤軍ですら、",
+                "translatedEnglishLine": "(Damn, even the elite Red Army,"
+            },
+            {
+                "lineNumber": 165364,
+                "originalJapaneseLine": "　こんな戦法を取らないといけないなんて……",
+                "translatedEnglishLine": "has to resort to tactics like this..."
+            },
+            {
+                "lineNumber": 165365,
+                "originalJapaneseLine": "　悔しいなあ……！）",
+                "translatedEnglishLine": "How frustrating...!)"
+            },
+            {
+                "lineNumber": 165366,
+                "originalJapaneseLine": "「ぐぎゃははは！　強ぇ奴！　強ぇ奴はどこだ！？」",
+                "translatedEnglishLine": "\"Gugyahahaha! Strong ones! Where are the strong ones!?\""
+            },
+            {
+                "lineNumber": 165367,
+                "originalJapaneseLine": "「おおおお、あれだぁあ！",
+                "translatedEnglishLine": "\"Ohhhh, there!"
+            },
+            {
+                "lineNumber": 165368,
+                "originalJapaneseLine": "　あのあの赤い光だぁぁあ！　あいつが強ぇぇ！」",
+                "translatedEnglishLine": "That red light! That guy is strong!\""
+            },
+            {
+                "lineNumber": 165369,
+                "originalJapaneseLine": "「死ぬのは俺だァーーー！",
+                "translatedEnglishLine": "\"I'm the one who's going to die here!"
+            },
+            {
+                "lineNumber": 165370,
+                "originalJapaneseLine": "　ハハハハ！　一番槍ーーーー！」",
+                "translatedEnglishLine": "Hahaha! I'll be first into the fray!\""
+            },
+            {
+                "lineNumber": 165371,
+                "originalJapaneseLine": "「リック将軍！？」",
+                "translatedEnglishLine": "\"General Rick!?\""
+            },
+            {
+                "lineNumber": 165372,
+                "originalJapaneseLine": "本来敵を威嚇し畏怖させる",
+                "translatedEnglishLine": "What was originally meant to intimidate and instill awe in the enemy"
+            },
+            {
+                "lineNumber": 165373,
+                "originalJapaneseLine": "魔法剣バイ・ロードの赤き輝き。",
+                "translatedEnglishLine": "was the red glow of the magic sword By Road."
+            },
+            {
+                "lineNumber": 165374,
+                "originalJapaneseLine": "だが、この鬼の部隊にあってはその逆。",
+                "translatedEnglishLine": "But with this ogre unit, it had the opposite effect."
+            },
+            {
+                "lineNumber": 165375,
+                "originalJapaneseLine": "誘蛾灯に吸い寄せられる虫の如く、",
+                "translatedEnglishLine": "Like moths drawn to a flame,"
+            },
+            {
+                "lineNumber": 165376,
+                "originalJapaneseLine": "全ての鬼が赤き光を目指していた。",
+                "translatedEnglishLine": "every ogre headed for the red light."
+            },
+            {
+                "lineNumber": 165377,
+                "originalJapaneseLine": "「…………フッ！」",
+                "translatedEnglishLine": "\"...Hmph!\""
+            },
+            {
+                "lineNumber": 165378,
+                "originalJapaneseLine": "「ゥララララァァァァーーーー！」",
+                "translatedEnglishLine": "\"Urarararaaahhh!\""
+            },
+            {
+                "lineNumber": 165379,
+                "originalJapaneseLine": "「あんぎゃあああああ！」",
+                "translatedEnglishLine": "\"Angyaaaaah!\""
+            },
+            {
+                "lineNumber": 165380,
+                "originalJapaneseLine": "赤き光が迸ったとき、鬼は腕の一本を落とされていた。",
+                "translatedEnglishLine": "As the red light flashed, the ogre lost an arm."
+            },
+            {
+                "lineNumber": 165381,
+                "originalJapaneseLine": "しかし鬼は――この部隊の鬼は、",
+                "translatedEnglishLine": "But these ogres—at least, the ones in this unit—"
+            },
+            {
+                "lineNumber": 165382,
+                "originalJapaneseLine": "腕の一本を失った程度では退かない。",
+                "translatedEnglishLine": "do not retreat just because they lost one arm."
+            },
+            {
+                "lineNumber": 165383,
+                "originalJapaneseLine": "「ぎゃああはははははは！",
+                "translatedEnglishLine": "\"Gyaa hahaha hahahaha!"
+            },
+            {
+                "lineNumber": 165384,
+                "originalJapaneseLine": "　死ね死ね死ねええええ！」",
+                "translatedEnglishLine": "Die! Die! Dieeeeee!\""
+            },
+            {
+                "lineNumber": 165385,
+                "originalJapaneseLine": "続けざまに赤き光が残りの腕と",
+                "translatedEnglishLine": "Continuously, the red light cut off the remaining arm and"
+            },
+            {
+                "lineNumber": 165386,
+                "originalJapaneseLine": "二本の足を斬り落とす。",
+                "translatedEnglishLine": "both legs."
+            },
+            {
+                "lineNumber": 165387,
+                "originalJapaneseLine": "「ぐぎゃああああ！　まだまだあああああ！」",
+                "translatedEnglishLine": "\"Gugyaaaaah! Not yet!\""
+            },
+            {
+                "lineNumber": 165388,
+                "originalJapaneseLine": "達磨状態の鬼は体だけの状態で跳んだ。",
+                "translatedEnglishLine": "Stripped of its limbs, the ogre leaped forward using its torso alone."
+            },
+            {
+                "lineNumber": 165389,
+                "originalJapaneseLine": "「――フンッ！」",
+                "translatedEnglishLine": "\"—Hmph!\""
+            },
+            {
+                "lineNumber": 165390,
+                "originalJapaneseLine": "今度は首を両断される。",
+                "translatedEnglishLine": "This time, its neck was cut in two."
+            }
+        ]
+    }
+}

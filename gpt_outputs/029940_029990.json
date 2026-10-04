@@ -1,0 +1,270 @@
+{
+    "id": "resp_00b9bde841ea5c0c0068ef7b6126188195a99723a6403d07b9",
+    "created_at": 1760525153,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "usage": {
+        "input_tokens": 1549,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 1987,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3536
+    },
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 29941,
+                "originalJapaneseLine": "　シーラも、あれで手綱は取れるさ」",
+                "translatedEnglishLine": "Sheila can keep them in line, too.\""
+            },
+            {
+                "lineNumber": 29942,
+                "originalJapaneseLine": "「どうする、魔人討伐隊に入れるか？」",
+                "translatedEnglishLine": "\"What do you think? Should we put them in the Fiend Slayer Squad?\""
+            },
+            {
+                "lineNumber": 29943,
+                "originalJapaneseLine": "「うるさいから要らん。",
+                "translatedEnglishLine": "\"No need, they're too noisy."
+            },
+            {
+                "lineNumber": 29944,
+                "originalJapaneseLine": "　ウルザちゃんにでも預けて、躾けさせとけ」",
+                "translatedEnglishLine": "Just leave them with Urza-chan and have her train them.\""
+            },
+            {
+                "lineNumber": 29945,
+                "originalJapaneseLine": "「では、移動をお願いします。",
+                "translatedEnglishLine": "\"Now then, please prepare to move."
+            },
+            {
+                "lineNumber": 29946,
+                "originalJapaneseLine": "　場所は……」",
+                "translatedEnglishLine": "The location is...\""
+            },
+            {
+                "lineNumber": 29947,
+                "originalJapaneseLine": "「えーッ！　マスターに命令されたいのにー！」",
+                "translatedEnglishLine": "\"Ehh! I want to be commanded by Master!\""
+            },
+            {
+                "lineNumber": 29948,
+                "originalJapaneseLine": "「やかましい、さっさと行け！」",
+                "translatedEnglishLine": "\"Quiet! Get going already!\""
+            },
+            {
+                "lineNumber": 29949,
+                "originalJapaneseLine": "一部、渋々とした様子ながら、",
+                "translatedEnglishLine": "Though some were reluctant,"
+            },
+            {
+                "lineNumber": 29950,
+                "originalJapaneseLine": "闘将達は命令通り、ランス城へと移動し始めた。",
+                "translatedEnglishLine": "the Battle Generals started moving to Rance Castle as ordered."
+            },
+            {
+                "lineNumber": 29951,
+                "originalJapaneseLine": "132体の闘将が、人類の麾下に加わった。",
+                "translatedEnglishLine": "A total of 132 Battle Generals joined under the banner of humanity."
+            },
+            {
+                "lineNumber": 29952,
+                "originalJapaneseLine": "「む……またこの扉か。",
+                "translatedEnglishLine": "\"Hmm... This door again."
+            },
+            {
+                "lineNumber": 29953,
+                "originalJapaneseLine": "　ここにも闘将どもがいるのか」",
+                "translatedEnglishLine": "Are there Battle Generals in here too?\""
+            },
+            {
+                "lineNumber": 29954,
+                "originalJapaneseLine": "「開けてみますね。ひらけごまー」",
+                "translatedEnglishLine": "\"I'll open it. Open sesame!\""
+            },
+            {
+                "lineNumber": 29955,
+                "originalJapaneseLine": "先ほどよりは一回り小さい、",
+                "translatedEnglishLine": "Inside was a hangar for Battle Generals,"
+            },
+            {
+                "lineNumber": 29956,
+                "originalJapaneseLine": "闘将達の格納庫が広がった。",
+                "translatedEnglishLine": "a little smaller than the previous one."
+            },
+            {
+                "lineNumber": 29957,
+                "originalJapaneseLine": "「ここも同じか……よしやれ、シーラ」",
+                "translatedEnglishLine": "\"This one’s the same... All right, go ahead, Sheila.\""
+            },
+            {
+                "lineNumber": 29958,
+                "originalJapaneseLine": "「はいっ」",
+                "translatedEnglishLine": "\"Yes!\""
+            },
+            {
+                "lineNumber": 29959,
+                "originalJapaneseLine": "真剣さを些かも損なわず、シーラはゆっくりと",
+                "translatedEnglishLine": "Without losing any seriousness, Sheila slowly"
+            },
+            {
+                "lineNumber": 29960,
+                "originalJapaneseLine": "コントロールパネルを操作した。",
+                "translatedEnglishLine": "operated the control panel."
+            },
+            {
+                "lineNumber": 29961,
+                "originalJapaneseLine": "そして、今回も闘将が動き始める。",
+                "translatedEnglishLine": "Then, once again, the Battle Generals started to move."
+            },
+            {
+                "lineNumber": 29962,
+                "originalJapaneseLine": "「闘神都市Σ第十二部隊、起動いたしました。",
+                "translatedEnglishLine": "\"Toushin City Σ, 12th Unit, has been activated."
+            },
+            {
+                "lineNumber": 29963,
+                "originalJapaneseLine": "　闘将、総勢77。我らがマスターの命ずるままに」",
+                "translatedEnglishLine": "A total of 77 Battle Generals. We await our Master's commands.\""
+            },
+            {
+                "lineNumber": 29964,
+                "originalJapaneseLine": "「はい。よろしくお願いしますね」",
+                "translatedEnglishLine": "\"Yes. Please take care of us.\""
+            },
+            {
+                "lineNumber": 29965,
+                "originalJapaneseLine": "「ほおーっ、今度のマスターは",
+                "translatedEnglishLine": "\"Ho~ The new Master is"
+            },
+            {
+                "lineNumber": 29966,
+                "originalJapaneseLine": "　お人形さんみたいにめんこいのう」",
+                "translatedEnglishLine": "so cute, just like a little doll.\""
+            },
+            {
+                "lineNumber": 29967,
+                "originalJapaneseLine": "「おいおい、お人形さんは儂らじゃろう」",
+                "translatedEnglishLine": "\"Hey hey, aren’t we the dolls here?\""
+            },
+            {
+                "lineNumber": 29968,
+                "originalJapaneseLine": "「ウワッハッハッハ！」",
+                "translatedEnglishLine": "\"Wahahahaha!\""
+            },
+            {
+                "lineNumber": 29969,
+                "originalJapaneseLine": "「え、ええと、あのー……」",
+                "translatedEnglishLine": "\"Uh, um, well...\""
+            },
+            {
+                "lineNumber": 29970,
+                "originalJapaneseLine": "「いや本当めんこいのう。是非孫の嫁に欲しいわい」",
+                "translatedEnglishLine": "\"No, really, she's adorable. I definitely want her as my granddaughter-in-law.\""
+            },
+            {
+                "lineNumber": 29971,
+                "originalJapaneseLine": "「とっくに死んどるじゃろう！」",
+                "translatedEnglishLine": "\"Your grandson's long dead!\""
+            },
+            {
+                "lineNumber": 29972,
+                "originalJapaneseLine": "「ガハハハハハハハ！」",
+                "translatedEnglishLine": "\"Gahahahahahaha!\""
+            },
+            {
+                "lineNumber": 29973,
+                "originalJapaneseLine": "「…………今度はなんだ。",
+                "translatedEnglishLine": "\"...What now?"
+            },
+            {
+                "lineNumber": 29974,
+                "originalJapaneseLine": "　このジジイの寄り合いみたいな闘将どもは……」",
+                "translatedEnglishLine": "Why do these Battle Generals sound like a bunch of old geezers?\""
+            },
+            {
+                "lineNumber": 29975,
+                "originalJapaneseLine": "「申し訳ない。その……第十二部隊は、",
+                "translatedEnglishLine": "\"I apologize. Well... the 12th Unit was created"
+            },
+            {
+                "lineNumber": 29976,
+                "originalJapaneseLine": "　肉体の衰えた往年の猛者に闘将の身体を与える、",
+                "translatedEnglishLine": "to give Battle General bodies to once-mighty warriors"
+            },
+            {
+                "lineNumber": 29977,
+                "originalJapaneseLine": "　というコンセプトの者達で……」",
+                "translatedEnglishLine": "whose own bodies had grown weak...\""
+            },
+            {
+                "lineNumber": 29978,
+                "originalJapaneseLine": "初めに挨拶した闘将が、すまなさげに頭を下げた。",
+                "translatedEnglishLine": "The Battle General who had greeted them first lowered his head apologetically."
+            },
+            {
+                "lineNumber": 29979,
+                "originalJapaneseLine": "「それは……うーん、狙いは正しい気はするが……」",
+                "translatedEnglishLine": "\"Well... hmm, I feel the intent is right, but...\""
+            },
+            {
+                "lineNumber": 29980,
+                "originalJapaneseLine": "「戦働きは確実ですので。",
+                "translatedEnglishLine": "\"They are certainly reliable in battle."
+            },
+            {
+                "lineNumber": 29981,
+                "originalJapaneseLine": "　目に余る者には、",
+                "translatedEnglishLine": "If any become troublesome,"
+            },
+            {
+                "lineNumber": 29982,
+                "originalJapaneseLine": "　マスターとして命じて頂ければ……」",
+                "translatedEnglishLine": "please issue orders as Master...\""
+            },
+            {
+                "lineNumber": 29983,
+                "originalJapaneseLine": "「は、はい……」",
+                "translatedEnglishLine": "\"Y-Yes...\""
+            },
+            {
+                "lineNumber": 29984,
+                "originalJapaneseLine": "「……つまりここの闘神は、",
+                "translatedEnglishLine": "\"...So, the Toushin here"
+            },
+            {
+                "lineNumber": 29985,
+                "originalJapaneseLine": "　そういう命令をしなかったって事か」",
+                "translatedEnglishLine": "never gave them those orders.\""
+            },
+            {
+                "lineNumber": 29986,
+                "originalJapaneseLine": "「とりあえず、目につかない所に送れ。",
+                "translatedEnglishLine": "\"For now, send them somewhere out of sight."
+            },
+            {
+                "lineNumber": 29987,
+                "originalJapaneseLine": "　こいつらもウルザちゃん行きだ」",
+                "translatedEnglishLine": "These guys are also going to Urza-chan.\""
+            },
+            {
+                "lineNumber": 29988,
+                "originalJapaneseLine": "「ウルザに、ちょっとだけ悪い気もするが……",
+                "translatedEnglishLine": "\"I feel a little bad for Urza, but..."
+            },
+            {
+                "lineNumber": 29989,
+                "originalJapaneseLine": "　まあ、有効活用してもらうか」",
+                "translatedEnglishLine": "Well, we'll just have her put them to good use.\""
+            },
+            {
+                "lineNumber": 29990,
+                "originalJapaneseLine": "「では皆さん、移動をお願いします」",
+                "translatedEnglishLine": "\"Now everyone, please prepare to move.\""
+            }
+        ]
+    }
+}

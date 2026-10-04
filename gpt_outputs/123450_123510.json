@@ -1,0 +1,320 @@
+{
+    "id": "resp_051b4076744481b70068f105a9f9b481908b9dd44e1037ff97",
+    "created_at": 1760626090,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "usage": {
+        "input_tokens": 1647,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2084,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3731
+    },
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 123451,
+                "originalJapaneseLine": "　温泉を二人じめなんてしないのだ！",
+                "translatedEnglishLine": "I won't hog the hot spring for the two of us!\""
+            },
+            {
+                "lineNumber": 123452,
+                "originalJapaneseLine": "「愛ちゃんとだけお風呂入っても楽しいんだ。",
+                "translatedEnglishLine": "“Taking a bath with Ai-chan alone is fun,"
+            },
+            {
+                "lineNumber": 123453,
+                "originalJapaneseLine": "　もう一人増えたらもっと楽しいぞ」",
+                "translatedEnglishLine": "but adding one more person makes it even more fun!”"
+            },
+            {
+                "lineNumber": 123454,
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "“........”"
+            },
+            {
+                "lineNumber": 123455,
+                "originalJapaneseLine": "「はあ、そこまで喜ばれたら",
+                "translatedEnglishLine": "“*sigh*... When you're that genuinely happy about it,"
+            },
+            {
+                "lineNumber": 123456,
+                "originalJapaneseLine": "　怒る気も失せるわ……」",
+                "translatedEnglishLine": "I don't even have the heart to stay mad at you anymore...”"
+            },
+            {
+                "lineNumber": 123457,
+                "originalJapaneseLine": "「おっ……」",
+                "translatedEnglishLine": "“Oh...”"
+            },
+            {
+                "lineNumber": 123458,
+                "originalJapaneseLine": "「よし、温泉といえば背中を流しっこをするものだ。",
+                "translatedEnglishLine": "“Alright! When it comes to hot springs, scrubbing each other's backs is a must."
+            },
+            {
+                "lineNumber": 123459,
+                "originalJapaneseLine": "　愛ちゃん、洗い場に行くぞ」",
+                "translatedEnglishLine": "Ai-chan, let’s go to the washing stalls.”"
+            },
+            {
+                "lineNumber": 123460,
+                "originalJapaneseLine": "「そして、つるーんと手が滑って……」",
+                "translatedEnglishLine": "“And then, my hand will 'accidentally' slip, and...”"
+            },
+            {
+                "lineNumber": 123461,
+                "originalJapaneseLine": "「触れないで下さい」",
+                "translatedEnglishLine": "“Please do not touch me.”"
+            },
+            {
+                "lineNumber": 123462,
+                "originalJapaneseLine": "「あいてっ」",
+                "translatedEnglishLine": "“Ouch!”"
+            },
+            {
+                "lineNumber": 123463,
+                "originalJapaneseLine": "愛とゆっくりと温泉に浸かった。",
+                "translatedEnglishLine": "Rance took a leisurely soak in the hot spring with Ai."
+            },
+            {
+                "lineNumber": 123464,
+                "originalJapaneseLine": "「虎子には負けません！」",
+                "translatedEnglishLine": "“I won’t lose to Torako!”"
+            },
+            {
+                "lineNumber": 123465,
+                "originalJapaneseLine": "「お、勝子、お手伝いか、偉いぞ」",
+                "translatedEnglishLine": "“Oh, Katsuko, helping out? That’s admirable.”"
+            },
+            {
+                "lineNumber": 123466,
+                "originalJapaneseLine": "「……なんだか引っかかる言い方ですね」",
+                "translatedEnglishLine": "“...Something about the way you said that bothers me.”"
+            },
+            {
+                "lineNumber": 123467,
+                "originalJapaneseLine": "廊下の前から大量の書類を抱えた勝子が現れた。",
+                "translatedEnglishLine": "Katsuko appeared at the hallway carrying a large pile of documents."
+            },
+            {
+                "lineNumber": 123468,
+                "originalJapaneseLine": "「愛ちゃんの手伝いか？",
+                "translatedEnglishLine": "“Helping Ai-chan?"
+            },
+            {
+                "lineNumber": 123469,
+                "originalJapaneseLine": "　大変そうだな」",
+                "translatedEnglishLine": "Looks tough.”"
+            },
+            {
+                "lineNumber": 123470,
+                "originalJapaneseLine": "「いえ、上杉家を継ごうというんです、",
+                "translatedEnglishLine": "“Not at all. If I'm going to inherit the Uesugi family,"
+            },
+            {
+                "lineNumber": 123471,
+                "originalJapaneseLine": "　少しでも仕事を覚えないと……」",
+                "translatedEnglishLine": "I need to learn as much of the work as I can...”"
+            },
+            {
+                "lineNumber": 123472,
+                "originalJapaneseLine": "「休んでいる暇はありません」",
+                "translatedEnglishLine": "“I have no time to rest!”"
+            },
+            {
+                "lineNumber": 123473,
+                "originalJapaneseLine": "「ほー」",
+                "translatedEnglishLine": "“Oh—”"
+            },
+            {
+                "lineNumber": 123474,
+                "originalJapaneseLine": "　",
+                "translatedEnglishLine": ""
+            },
+            {
+                "lineNumber": 123475,
+                "originalJapaneseLine": "　　＜なでなで、ぽんぽん＞",
+                "translatedEnglishLine": "  <Stroke stroke, pat pat>"
+            },
+            {
+                "lineNumber": 123476,
+                "originalJapaneseLine": "「きゃっ！？　何するんですか！？」",
+                "translatedEnglishLine": "“Eek!? What are you doing!?”"
+            },
+            {
+                "lineNumber": 123477,
+                "originalJapaneseLine": "書類を抱えたまま、ズザザッと勝子が離れた。",
+                "translatedEnglishLine": "Still carrying the documents, Katsuko slid away hurriedly."
+            },
+            {
+                "lineNumber": 123478,
+                "originalJapaneseLine": "「頑張っているようだから、",
+                "translatedEnglishLine": "“You looked like you were working hard,"
+            },
+            {
+                "lineNumber": 123479,
+                "originalJapaneseLine": "　頭を撫でてやっただけだろうが。",
+                "translatedEnglishLine": "so I just patted your head."
+            },
+            {
+                "lineNumber": 123480,
+                "originalJapaneseLine": "　何を驚いてんだ」",
+                "translatedEnglishLine": "What’s with the surprise?”"
+            },
+            {
+                "lineNumber": 123481,
+                "originalJapaneseLine": "「と、突然そんなことされたら、",
+                "translatedEnglishLine": "“If you suddenly do that to someone,"
+            },
+            {
+                "lineNumber": 123482,
+                "originalJapaneseLine": "　誰だって驚きます！」",
+                "translatedEnglishLine": "of course they'll be startled!”"
+            },
+            {
+                "lineNumber": 123483,
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "“........”"
+            },
+            {
+                "lineNumber": 123484,
+                "originalJapaneseLine": "「あ、千姫さん」",
+                "translatedEnglishLine": "“Ah, Senhime-san.”"
+            },
+            {
+                "lineNumber": 123485,
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "“........”"
+            },
+            {
+                "lineNumber": 123486,
+                "originalJapaneseLine": "　",
+                "translatedEnglishLine": ""
+            },
+            {
+                "lineNumber": 123487,
+                "originalJapaneseLine": "　　＜なでなで、ぽんぽん＞",
+                "translatedEnglishLine": "  <Stroke stroke, pat pat>"
+            },
+            {
+                "lineNumber": 123488,
+                "originalJapaneseLine": "「へっ？」",
+                "translatedEnglishLine": "“Huh?”"
+            },
+            {
+                "lineNumber": 123489,
+                "originalJapaneseLine": "「皆のお手伝いがしたい年頃なんだな。",
+                "translatedEnglishLine": "“Ah, you're at that age where you want to help everyone."
+            },
+            {
+                "lineNumber": 123490,
+                "originalJapaneseLine": "　偉い偉い」",
+                "translatedEnglishLine": "Good girl, good girl.”"
+            },
+            {
+                "lineNumber": 123491,
+                "originalJapaneseLine": "「たまごポーロをあげよう」",
+                "translatedEnglishLine": "“Here, have some egg cookies!”"
+            },
+            {
+                "lineNumber": 123492,
+                "originalJapaneseLine": "「は、はあ……」",
+                "translatedEnglishLine": "“Y-Yeah...”"
+            },
+            {
+                "lineNumber": 123493,
+                "originalJapaneseLine": "「ではな」",
+                "translatedEnglishLine": "“Well then.”"
+            },
+            {
+                "lineNumber": 123494,
+                "originalJapaneseLine": "「あの……」",
+                "translatedEnglishLine": "“Um...”"
+            },
+            {
+                "lineNumber": 123495,
+                "originalJapaneseLine": "「んー？」",
+                "translatedEnglishLine": "“Hmm?”"
+            },
+            {
+                "lineNumber": 123496,
+                "originalJapaneseLine": "「もしかして私、みんなに",
+                "translatedEnglishLine": "“Excuse me... but is everyone here"
+            },
+            {
+                "lineNumber": 123497,
+                "originalJapaneseLine": "　子供扱いされてません？」",
+                "translatedEnglishLine": "treating me like a child?”"
+            },
+            {
+                "lineNumber": 123498,
+                "originalJapaneseLine": "「まあ、半分子供みたいなもんだろ」",
+                "translatedEnglishLine": "“Well, you're more or less a kid.”"
+            },
+            {
+                "lineNumber": 123499,
+                "originalJapaneseLine": "「違います！」",
+                "translatedEnglishLine": "“That’s not true!”"
+            },
+            {
+                "lineNumber": 123500,
+                "originalJapaneseLine": "「もう、虎子、あんた書類どこに落としたのよ」",
+                "translatedEnglishLine": "“Good grief, Torako, where did you drop the documents?”"
+            },
+            {
+                "lineNumber": 123501,
+                "originalJapaneseLine": "勝子と虎子が書類運びをしている間に、",
+                "translatedEnglishLine": "Katsuko and Torako were searching for documents"
+            },
+            {
+                "lineNumber": 123502,
+                "originalJapaneseLine": "行方不明になった書類を捜していた。",
+                "translatedEnglishLine": "that had gone missing while they were carrying them."
+            },
+            {
+                "lineNumber": 123503,
+                "originalJapaneseLine": "「うう……ぐす、知らない……",
+                "translatedEnglishLine": "“Ugh… *sniff*, I don’t know…"
+            },
+            {
+                "lineNumber": 123504,
+                "originalJapaneseLine": "　知らないもん……",
+                "translatedEnglishLine": "I really don’t know…”"
+            },
+            {
+                "lineNumber": 123505,
+                "originalJapaneseLine": "「はあ……虎子に手伝ってもらおうと思ったのが",
+                "translatedEnglishLine": "“*sigh*... Was it a mistake"
+            },
+            {
+                "lineNumber": 123506,
+                "originalJapaneseLine": "　間違いだったのかしら",
+                "translatedEnglishLine": "to think I could get Torako's help?”"
+            },
+            {
+                "lineNumber": 123507,
+                "originalJapaneseLine": "「うわーん！　勝子が嫌味ったらしいよー！」",
+                "translatedEnglishLine": "“Waah! Katsuko is being so mean to me!”"
+            },
+            {
+                "lineNumber": 123508,
+                "originalJapaneseLine": "「もう、ピーピー泣いてないで捜してよ……",
+                "translatedEnglishLine": "“Good grief, stop bawling your eyes out like a baby and help me search...”"
+            },
+            {
+                "lineNumber": 123509,
+                "originalJapaneseLine": "「ね、ねえ、ねえねえ、勝子……",
+                "translatedEnglishLine": "“Hey, hey, hey hey, Katsuko...”"
+            },
+            {
+                "lineNumber": 123510,
+                "originalJapaneseLine": "虎子が勝子にすがりつく。",
+                "translatedEnglishLine": "Torako clung to Katsuko."
+            }
+        ]
+    }
+}

@@ -1,0 +1,320 @@
+{
+    "id": "resp_0f88632bde467e070068f110a7f0ec8190a4b22dd2b56a3b90",
+    "created_at": 1760628904,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "usage": {
+        "input_tokens": 1705,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2267,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3972
+    },
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 127831,
+                "originalJapaneseLine": "「……ふん」",
+                "translatedEnglishLine": "\"...Hmph.\""
+            },
+            {
+                "lineNumber": 127832,
+                "originalJapaneseLine": "「そういや、この三人で冒険は久しぶりだな」",
+                "translatedEnglishLine": "\"Come to think of it, it's been a while since the three of us went on an adventure.\""
+            },
+            {
+                "lineNumber": 127833,
+                "originalJapaneseLine": "「そうですね！」",
+                "translatedEnglishLine": "\"That's right!\""
+            },
+            {
+                "lineNumber": 127834,
+                "originalJapaneseLine": "「……何をニコニコしとるんだ。",
+                "translatedEnglishLine": "\"...What are you grinning about? It's creepy."
+            },
+            {
+                "lineNumber": 127835,
+                "originalJapaneseLine": "　気持ち悪い奴だな。えい、頭ぐりぐり」",
+                "translatedEnglishLine": "Here, have a knuckle rub on your head!\""
+            },
+            {
+                "lineNumber": 127836,
+                "originalJapaneseLine": "「あいた、いたた、えへへ、すみません」",
+                "translatedEnglishLine": "\"Ouch, ow, ehehe, sorry.\""
+            },
+            {
+                "lineNumber": 127837,
+                "originalJapaneseLine": "「やーい、シィルちゃん怒られてるれす」",
+                "translatedEnglishLine": "“Yay! Sill-chan's getting scolded, resu!”"
+            },
+            {
+                "lineNumber": 127838,
+                "originalJapaneseLine": "「あてな、他人を笑ってる暇があったら、",
+                "translatedEnglishLine": "\"Athena, if you've got time to laugh at others,"
+            },
+            {
+                "lineNumber": 127839,
+                "originalJapaneseLine": "　しっかり案内しろ。",
+                "translatedEnglishLine": "then guide us properly."
+            },
+            {
+                "lineNumber": 127840,
+                "originalJapaneseLine": "　迷ったらお仕置きだぞ」",
+                "translatedEnglishLine": "If we get lost, you're getting punished!\""
+            },
+            {
+                "lineNumber": 127841,
+                "originalJapaneseLine": "「はいれすっ」",
+                "translatedEnglishLine": "“Yes, resu!”"
+            },
+            {
+                "lineNumber": 127842,
+                "originalJapaneseLine": "「あり？　わざと迷えば",
+                "translatedEnglishLine": "\"Huh? If I get lost on purpose, resu,"
+            },
+            {
+                "lineNumber": 127843,
+                "originalJapaneseLine": "　エッチなお仕置きしてもらえるれす？",
+                "translatedEnglishLine": "will I get a naughty punishment, resu?"
+            },
+            {
+                "lineNumber": 127844,
+                "originalJapaneseLine": "　ありり？　迷った方がお得？」",
+                "translatedEnglishLine": "Wait, resu? Is getting lost actually better...?\""
+            },
+            {
+                "lineNumber": 127845,
+                "originalJapaneseLine": "「……………………」",
+                "translatedEnglishLine": "\"................\""
+            },
+            {
+                "lineNumber": 127846,
+                "originalJapaneseLine": "…………",
+                "translatedEnglishLine": "........"
+            },
+            {
+                "lineNumber": 127847,
+                "originalJapaneseLine": "……",
+                "translatedEnglishLine": "..."
+            },
+            {
+                "lineNumber": 127848,
+                "originalJapaneseLine": "「わあ、久しぶりの我が家ですね、ランス様」",
+                "translatedEnglishLine": "“Wow... It's been so long since we've been home, Lord Rance.”"
+            },
+            {
+                "lineNumber": 127849,
+                "originalJapaneseLine": "「俺はたまに帰っていたが、",
+                "translatedEnglishLine": "\"I popped back here occasionally,"
+            },
+            {
+                "lineNumber": 127850,
+                "originalJapaneseLine": "　そういえばお前は本当に久しぶりだったな。",
+                "translatedEnglishLine": "but come to think of it, it really has been an eternity for you."
+            },
+            {
+                "lineNumber": 127851,
+                "originalJapaneseLine": "　確か前に帰ったのが……",
+                "translatedEnglishLine": "Let's see, the last time you came back was...\""
+            },
+            {
+                "lineNumber": 127852,
+                "originalJapaneseLine": "「えっと……",
+                "translatedEnglishLine": "\"Um..."
+            },
+            {
+                "lineNumber": 127853,
+                "originalJapaneseLine": "　ゼスに行く前ですね」",
+                "translatedEnglishLine": "Right before we went to Zeth.\""
+            },
+            {
+                "lineNumber": 127854,
+                "originalJapaneseLine": "「ってことは、ひのふの……",
+                "translatedEnglishLine": "“Let's see... one, two...”"
+            },
+            {
+                "lineNumber": 127855,
+                "originalJapaneseLine": "「二年前くらいでしょうか」",
+                "translatedEnglishLine": "“About two years ago, I think.”"
+            },
+            {
+                "lineNumber": 127856,
+                "originalJapaneseLine": "「ふん、それなら懐かしいという気にもなるか」",
+                "translatedEnglishLine": "“Hmph, then it makes sense to feel nostalgic.”"
+            },
+            {
+                "lineNumber": 127857,
+                "originalJapaneseLine": "「はー、やれやれ、まずはシィル、茶」",
+                "translatedEnglishLine": "“*sigh*... Alright, Sill. Tea first.”"
+            },
+            {
+                "lineNumber": 127858,
+                "originalJapaneseLine": "「はい、ちょっと待ってて下さいね」",
+                "translatedEnglishLine": "\"Yes, please wait a moment.\""
+            },
+            {
+                "lineNumber": 127859,
+                "originalJapaneseLine": "「……今見ると本当に狭い家だな。",
+                "translatedEnglishLine": "\"...Looking at it now, this house is incredibly tiny."
+            },
+            {
+                "lineNumber": 127860,
+                "originalJapaneseLine": "　よく今までこんな家に住んでいたものだ」",
+                "translatedEnglishLine": "I can't believe I used to live in a cramped place like this.\""
+            },
+            {
+                "lineNumber": 127861,
+                "originalJapaneseLine": "「そんなことないですよ。",
+                "translatedEnglishLine": "\"That's not true."
+            },
+            {
+                "lineNumber": 127862,
+                "originalJapaneseLine": "　新築ですし……まだまだ使えますよ」",
+                "translatedEnglishLine": "It's a new house... It's still perfectly good.\""
+            },
+            {
+                "lineNumber": 127863,
+                "originalJapaneseLine": "「もうゴージャスでエレガントな",
+                "translatedEnglishLine": "\"I've got a gorgeous, elegant castle now,"
+            },
+            {
+                "lineNumber": 127864,
+                "originalJapaneseLine": "　城持ちの俺様には関係ないことだ」",
+                "translatedEnglishLine": "so that's no concern of mine anymore.\""
+            },
+            {
+                "lineNumber": 127865,
+                "originalJapaneseLine": "「……なんだか、少し寂しいです」",
+                "translatedEnglishLine": "“...Somehow... that makes me feel a little sad.”"
+            },
+            {
+                "lineNumber": 127866,
+                "originalJapaneseLine": "「お前、よく言っていたな。",
+                "translatedEnglishLine": "\"You often said,"
+            },
+            {
+                "lineNumber": 127867,
+                "originalJapaneseLine": "　アイスのお家に帰りましょうって。",
+                "translatedEnglishLine": "'Let's go back to our house in Ice.'"
+            },
+            {
+                "lineNumber": 127868,
+                "originalJapaneseLine": "　そんなにこの家が好きだったのか？」",
+                "translatedEnglishLine": "Did you really like this house that much?\""
+            },
+            {
+                "lineNumber": 127869,
+                "originalJapaneseLine": "「今は城持ちだから、こんなボロ家に",
+                "translatedEnglishLine": "\"Now that I've got a castle,"
+            },
+            {
+                "lineNumber": 127870,
+                "originalJapaneseLine": "　無理して住む必要はないぞ。",
+                "translatedEnglishLine": "there's no need to make do with this old shack."
+            },
+            {
+                "lineNumber": 127871,
+                "originalJapaneseLine": "　がははは、どうだ、すごいだろう」",
+                "translatedEnglishLine": "Gahaha! Pretty amazing of me, right?\""
+            },
+            {
+                "lineNumber": 127872,
+                "originalJapaneseLine": "「でも、私……」",
+                "translatedEnglishLine": "\"But I...\""
+            },
+            {
+                "lineNumber": 127873,
+                "originalJapaneseLine": "（なんだか、ランス様が遠くに行っちゃうようで……",
+                "translatedEnglishLine": "(Somehow, it feels like Lord Rance has drifted so far away from me..."
+            },
+            {
+                "lineNumber": 127874,
+                "originalJapaneseLine": "　それが、寂しいです……）",
+                "translatedEnglishLine": "and that makes me feel so lonely...)"
+            },
+            {
+                "lineNumber": 127875,
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": 127876,
+                "originalJapaneseLine": "「いいか、シィル、よく聞け。",
+                "translatedEnglishLine": "\"Listen, Sill, listen carefully."
+            },
+            {
+                "lineNumber": 127877,
+                "originalJapaneseLine": "　今や世界中の王族の女共は",
+                "translatedEnglishLine": "Now, all the royal women around the world"
+            },
+            {
+                "lineNumber": 127878,
+                "originalJapaneseLine": "　すっかり俺様に惚れてる」",
+                "translatedEnglishLine": "are completely head over heels for me.\""
+            },
+            {
+                "lineNumber": 127879,
+                "originalJapaneseLine": "「え、はい？」",
+                "translatedEnglishLine": "\"Eh, yes?\""
+            },
+            {
+                "lineNumber": 127880,
+                "originalJapaneseLine": "「リーザスのリアは俺様にベタ惚れ、",
+                "translatedEnglishLine": "\"Lia of Leazas is madly in love with me,"
+            },
+            {
+                "lineNumber": 127881,
+                "originalJapaneseLine": "　ゼスはウルザちゃんとマジックの二人が、",
+                "translatedEnglishLine": "and in Zeth, Urza-chan and Magic—both of them,"
+            },
+            {
+                "lineNumber": 127882,
+                "originalJapaneseLine": "　俺に惚れている」",
+                "translatedEnglishLine": "are in love with me.\""
+            },
+            {
+                "lineNumber": 127883,
+                "originalJapaneseLine": "「JAPANの香ちゃんは俺を兄様と慕い、",
+                "translatedEnglishLine": "\"Kou-chan of Nippon adores me like a real big brother,"
+            },
+            {
+                "lineNumber": 127884,
+                "originalJapaneseLine": "　お前は知らんだろうが、",
+                "translatedEnglishLine": "You probably don’t know this,"
+            },
+            {
+                "lineNumber": 127885,
+                "originalJapaneseLine": "　ヘルマンの大統領も、俺様にメロメロだ」",
+                "translatedEnglishLine": "but even Helman's president is crazy about me.\""
+            },
+            {
+                "lineNumber": 127886,
+                "originalJapaneseLine": "「それからＡＬ教の法王も",
+                "translatedEnglishLine": "\"Heck, even the AL Pope"
+            },
+            {
+                "lineNumber": 127887,
+                "originalJapaneseLine": "　俺様の言うことはなんでも聞く」",
+                "translatedEnglishLine": "does absolutely whatever I tell her to!\""
+            },
+            {
+                "lineNumber": 127888,
+                "originalJapaneseLine": "「俺が一声かければ、世界中の王が",
+                "translatedEnglishLine": "\"If I just give the word, the kings of the world"
+            },
+            {
+                "lineNumber": 127889,
+                "originalJapaneseLine": "　俺にひれ伏して、今すぐにだって",
+                "translatedEnglishLine": "will bow down to me,"
+            },
+            {
+                "lineNumber": 127890,
+                "originalJapaneseLine": "　世界統一王にだってなれるんだぞ」",
+                "translatedEnglishLine": "and I could even become the king who unifies the world, right now.\""
+            }
+        ]
+    }
+}

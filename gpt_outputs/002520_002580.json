@@ -1,0 +1,320 @@
+{
+    "id": "resp_015b991239e084d80068eed1ec2e8c81968869d6a4988d90c9",
+    "created_at": 1760481772,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "usage": {
+        "input_tokens": 1728,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2265,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3993
+    },
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 2521,
+                "originalJapaneseLine": "　戻せるものですか。人類の損失だ」",
+                "translatedEnglishLine": "back to such a dangerous front line? It would be a loss to humanity.\""
+            },
+            {
+                "lineNumber": 2522,
+                "originalJapaneseLine": "「え、ええと……」",
+                "translatedEnglishLine": "\"Uh, um...\""
+            },
+            {
+                "lineNumber": 2523,
+                "originalJapaneseLine": "「かつて、ゼスが行った蛮行、異種族撲滅政策。",
+                "translatedEnglishLine": "\"First, Zeth's barbaric policy of exterminating other races..."
+            },
+            {
+                "lineNumber": 2524,
+                "originalJapaneseLine": "　いや……それ以前からの、差別政策の数々」",
+                "translatedEnglishLine": "No... even before that, all those discriminatory policies.\""
+            },
+            {
+                "lineNumber": 2525,
+                "originalJapaneseLine": "「それによって、多くの種が絶滅したと思われた。",
+                "translatedEnglishLine": "\"Because of them, so many species were thought to have died out."
+            },
+            {
+                "lineNumber": 2526,
+                "originalJapaneseLine": "　――しかし。あなたという奇跡があった」",
+                "translatedEnglishLine": "—However, there was a miracle called you.\""
+            },
+            {
+                "lineNumber": 2527,
+                "originalJapaneseLine": "「これはもう、手厚く保護し、",
+                "translatedEnglishLine": "\"From now on, you must be carefully protected,"
+            },
+            {
+                "lineNumber": 2528,
+                "originalJapaneseLine": "　健やかに過ごして頂かなければ。",
+                "translatedEnglishLine": "and you must live healthily."
+            },
+            {
+                "lineNumber": 2529,
+                "originalJapaneseLine": "　それが成熟した人類の判断というものです」",
+                "translatedEnglishLine": "That is the judgment of a mature society.\""
+            },
+            {
+                "lineNumber": 2530,
+                "originalJapaneseLine": "「ほ、保護、って……何するの……」",
+                "translatedEnglishLine": "\"P-protection... what does that mean...\""
+            },
+            {
+                "lineNumber": 2531,
+                "originalJapaneseLine": "「それはもう。安全な所で、文化的な暮らしを。",
+                "translatedEnglishLine": "\"Why, a safe place and a civilized life, of course."
+            },
+            {
+                "lineNumber": 2532,
+                "originalJapaneseLine": "　皆で見守ります故、穏やかに暮らして頂ければ」",
+                "translatedEnglishLine": "We'll all watch over you, so please live in peace.\""
+            },
+            {
+                "lineNumber": 2533,
+                "originalJapaneseLine": "「…………っ……」",
+                "translatedEnglishLine": "\"... ...\""
+            },
+            {
+                "lineNumber": 2534,
+                "originalJapaneseLine": "「これまで、たいそう辛い目に遭ったでしょう？",
+                "translatedEnglishLine": "\"You have had a very hard time until now, haven't you?"
+            },
+            {
+                "lineNumber": 2535,
+                "originalJapaneseLine": "　可哀想に……」",
+                "translatedEnglishLine": "How pitiful...\""
+            },
+            {
+                "lineNumber": 2536,
+                "originalJapaneseLine": "「もう、大丈夫だからね。",
+                "translatedEnglishLine": "\"But it's okay now."
+            },
+            {
+                "lineNumber": 2537,
+                "originalJapaneseLine": "　いじめる人なんて、いないからね」",
+                "translatedEnglishLine": "There won't be anyone to bully you.\""
+            },
+            {
+                "lineNumber": 2538,
+                "originalJapaneseLine": "「…………こわい……」",
+                "translatedEnglishLine": "\"...I'm scared...\""
+            },
+            {
+                "lineNumber": 2539,
+                "originalJapaneseLine": "「あぁ……そうでしたでしょうとも。これまでは……",
+                "translatedEnglishLine": "\"Ah... yes, that's how it was until now..."
+            },
+            {
+                "lineNumber": 2540,
+                "originalJapaneseLine": "　しかし、もう安心です。これからは、我々が……」",
+                "translatedEnglishLine": "But now you can be at ease. From now on, we will...\""
+            },
+            {
+                "lineNumber": 2541,
+                "originalJapaneseLine": "「…………あなたたち……こわいよ……」",
+                "translatedEnglishLine": "\"...You all... are scary...\""
+            },
+            {
+                "lineNumber": 2542,
+                "originalJapaneseLine": "「なんと……？」",
+                "translatedEnglishLine": "\"What... did you say?\""
+            },
+            {
+                "lineNumber": 2543,
+                "originalJapaneseLine": "「言ってる事が、反対なのに……",
+                "translatedEnglishLine": "\"What you're saying is the opposite..."
+            },
+            {
+                "lineNumber": 2544,
+                "originalJapaneseLine": "　かろをいじめた人たちと……おんなじ顔してる……",
+                "translatedEnglishLine": "You have the same faces as the people who bullied Calo..."
+            },
+            {
+                "lineNumber": 2545,
+                "originalJapaneseLine": "　どうして……？」",
+                "translatedEnglishLine": "Why...?\""
+            },
+            {
+                "lineNumber": 2546,
+                "originalJapaneseLine": "「む、むうう？　言葉が不自由なのか？",
+                "translatedEnglishLine": "\"M-mmm? Are you having trouble with words?"
+            },
+            {
+                "lineNumber": 2547,
+                "originalJapaneseLine": "　何を言って……」",
+                "translatedEnglishLine": "What are you saying...?\""
+            },
+            {
+                "lineNumber": 2548,
+                "originalJapaneseLine": "「人間が信用できないのよ……可哀想に……",
+                "translatedEnglishLine": "\"You can't trust humans... how pitiful..."
+            },
+            {
+                "lineNumber": 2549,
+                "originalJapaneseLine": "　大丈夫よ？　私たちは優しいからね？」",
+                "translatedEnglishLine": "It's alright, you know? We are kind, after all.\""
+            },
+            {
+                "lineNumber": 2550,
+                "originalJapaneseLine": "「あなたは貴重なの。とても価値があるのよ。",
+                "translatedEnglishLine": "\"You are precious. You have great value."
+            },
+            {
+                "lineNumber": 2551,
+                "originalJapaneseLine": "　だから、心配は…………」",
+                "translatedEnglishLine": "So, don't worry...\""
+            },
+            {
+                "lineNumber": 2552,
+                "originalJapaneseLine": "「っ、帰して！　かろを、っ……！",
+                "translatedEnglishLine": "\"L-let me go home! Let Calo...!"
+            },
+            {
+                "lineNumber": 2553,
+                "originalJapaneseLine": "　かろ、可哀想なんかじゃないもん！",
+                "translatedEnglishLine": "Calo isn't someone to pity!"
+            },
+            {
+                "lineNumber": 2554,
+                "originalJapaneseLine": "　貴重じゃないっ！」",
+                "translatedEnglishLine": "I'm not precious!\""
+            },
+            {
+                "lineNumber": 2555,
+                "originalJapaneseLine": "「いかんな、興奮している……！",
+                "translatedEnglishLine": "\"This is bad, she's getting agitated...!"
+            },
+            {
+                "lineNumber": 2556,
+                "originalJapaneseLine": "　貴重なムシ使いだ、少し大人しくさせよう」",
+                "translatedEnglishLine": "She's a valuable bug tamer. We should quiet her down a bit.\""
+            },
+            {
+                "lineNumber": 2557,
+                "originalJapaneseLine": "「へいっ」",
+                "translatedEnglishLine": "\"Yes, sir!\""
+            },
+            {
+                "lineNumber": 2558,
+                "originalJapaneseLine": "「離してっ、帰るの、かろ、ランスの、ッ……！」",
+                "translatedEnglishLine": "\"Let go! Calo's going back... to Rance's...!\""
+            },
+            {
+                "lineNumber": 2559,
+                "originalJapaneseLine": "「なーーにを…………」",
+                "translatedEnglishLine": "\"What the..."
+            },
+            {
+                "lineNumber": 2560,
+                "originalJapaneseLine": "「ふざけた真似をしてやがるんだ",
+                "translatedEnglishLine": "hell do you think you're playing at,"
+            },
+            {
+                "lineNumber": 2561,
+                "originalJapaneseLine": "　このクソどもがーーーー！！」",
+                "translatedEnglishLine": "you pieces of shit?!\""
+            },
+            {
+                "lineNumber": 2562,
+                "originalJapaneseLine": "「お、おおぉぉっ！　何を乱暴な…………」",
+                "translatedEnglishLine": "\"O-ow! What violence is this...\""
+            },
+            {
+                "lineNumber": 2563,
+                "originalJapaneseLine": "「ごふっ！」",
+                "translatedEnglishLine": "\"Goff!\""
+            },
+            {
+                "lineNumber": 2564,
+                "originalJapaneseLine": "「誘拐の現行犯ですね。",
+                "translatedEnglishLine": "\"We've caught them in the act of kidnapping."
+            },
+            {
+                "lineNumber": 2565,
+                "originalJapaneseLine": "　全員、捕縛して下さい！」",
+                "translatedEnglishLine": "Arrest them all!\""
+            },
+            {
+                "lineNumber": 2566,
+                "originalJapaneseLine": "「は、はぁっ？",
+                "translatedEnglishLine": "\"W-what?"
+            },
+            {
+                "lineNumber": 2567,
+                "originalJapaneseLine": "　私たち、ムシ使いを保護しただけなのよ！",
+                "translatedEnglishLine": "We only protected the insect tamer!"
+            },
+            {
+                "lineNumber": 2568,
+                "originalJapaneseLine": "　何を…………」",
+                "translatedEnglishLine": "What are you—\""
+            },
+            {
+                "lineNumber": 2569,
+                "originalJapaneseLine": "「横暴よ！　虐待をして、貴重な文化を",
+                "translatedEnglishLine": "\"This is tyranny! Does the government mean to abuse her"
+            },
+            {
+                "lineNumber": 2570,
+                "originalJapaneseLine": "　根絶させるつもりなの、政府は！」",
+                "translatedEnglishLine": "and wipe out a precious culture?!\""
+            },
+            {
+                "lineNumber": 2571,
+                "originalJapaneseLine": "「捕縛なんぞ要らんわ！　全部殺せ！」",
+                "translatedEnglishLine": "\"Don't bother with arrests! Kill them all!\""
+            },
+            {
+                "lineNumber": 2572,
+                "originalJapaneseLine": "「……と言う人もいますから！　急いで！」",
+                "translatedEnglishLine": "\"...You heard him! Hurry!\""
+            },
+            {
+                "lineNumber": 2573,
+                "originalJapaneseLine": "「あ……あ、ランス……」",
+                "translatedEnglishLine": "\"Ah... ah, Rance...\""
+            },
+            {
+                "lineNumber": 2574,
+                "originalJapaneseLine": "「ランスさんは、カロリアさんをお願いします」",
+                "translatedEnglishLine": "\"Rance-san, please take care of Caloria-san.\""
+            },
+            {
+                "lineNumber": 2575,
+                "originalJapaneseLine": "「ふんっ。帰るぞ、カロリア」",
+                "translatedEnglishLine": "\"Hmph. Let's go home, Caloria.\""
+            },
+            {
+                "lineNumber": 2576,
+                "originalJapaneseLine": "「……うんっ」",
+                "translatedEnglishLine": "\"...Yeah.\""
+            },
+            {
+                "lineNumber": 2577,
+                "originalJapaneseLine": "「まったく、世話を焼かせやがって」",
+                "translatedEnglishLine": "\"Honestly, making me go to all this trouble.\""
+            },
+            {
+                "lineNumber": 2578,
+                "originalJapaneseLine": "「ん……ごめんね……」",
+                "translatedEnglishLine": "\"Mm... sorry...\""
+            },
+            {
+                "lineNumber": 2579,
+                "originalJapaneseLine": "「無事だったからいい」",
+                "translatedEnglishLine": "\"It's fine as long as you're safe.\""
+            },
+            {
+                "lineNumber": 2580,
+                "originalJapaneseLine": "「……………………」",
+                "translatedEnglishLine": "\"................\""
+            }
+        ]
+    }
+}

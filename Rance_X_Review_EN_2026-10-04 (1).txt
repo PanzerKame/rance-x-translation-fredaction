@@ -1,0 +1,276 @@
+TERMINOLOGY UPDATE — 4 OCTOBER 2026
+
+The player's requested localization conventions have now been applied to
+Rance_X_terminology_2026-10-04.zip, a complete combined package containing
+both gpt_outputs and gpt_outputs_v104:
+
+- Chaos's recurring nickname for Rance: My Kindred Spirit.
+- 魔王: Archfiend; 魔人 remains Fiend. Demon Lord/Demon King variants
+  referring to 魔王 were normalized, with articles and plurals adjusted.
+- The fictional country's name: Nippon instead of JAPAN/Japan.
+
+This update changes 2,243 records across 889 files:
+96 nickname records, 1,787 title records and 361 country-name records.
+One record belongs to two categories. Only translatedEnglishLine values
+were changed; source text, IDs, ordering and other JSON content were preserved.
+This is a terminology update; the earlier diagnostic review follows below.
+
+Real-world Japan references, ordinary Japanese cultural/language descriptors,
+literal partnership wording distinct from Chaos's nickname, and Rasoum's
+separate role as king of devils were treated contextually. One ambiguous
+source note (259670_259730.json, 259631: 魔人ランス versus Demon King Rance)
+remains flagged for author confirmation. The archive includes a detailed
+TERMINOLOGY_CHANGELOG_EN.txt. The compiled AIN was not built in this review.
+
+RANCE X — TRANSLATION FILE REVIEW
+4 October 2026
+
+SCOPE AND STATUS
+
+This report combines issues visible in the player's screenshots with findings
+from a structural scan and targeted language review of the supplied files:
+
+- rance_x_pelna_paczka.zip: 4,177 JSON files, 234,085 records.
+- gpt_outputs_v104.rar: 85 JSON files, 5,044 records.
+- Total: 4,262 JSON files and 239,129 records, including overlapping records.
+- The older outputs.rar and regenerated.ain.txt were used for comparison.
+
+The generator discussed below is the local regenerate_aai_txt.cjs script
+supplied in rance_x_generator.zip. Findings about exact Japanese matching,
+alphabetical overwrite priority, and applying v104 last describe this script.
+They should not be assumed to describe the original project's build process.
+
+The review covered file structure, selected error patterns, and targeted
+checks of passages in context. It was not a complete semantic review of all
+239,129 records. The player's current compiled AIN was not inspected.
+The available regenerated.ain.txt is an earlier baseline; the local script
+writes its new output to regenerated.poprawione.ain.txt.
+
+1. TWO JAPANESE LINES STILL VISIBLE IN THE FIRST ENCYCLOPEDIA ENTRY
+   Status: confirmed in screenshots; a source-text mismatch was identified.
+
+Both lines already have English translations in 069620_069670.json.
+However, their originalJapaneseLine values are missing the final Japanese
+closing quotation mark, 」, which is visible in the game screenshots.
+
+Record 69654:
+  JSON source: キエン屋敷に入っていき……
+  In the game: キエン屋敷に入っていき……」
+  Existing English: entered the Kien mansion...
+
+Record 69660:
+  JSON source: 「私、思ったの……
+  In the game: 「私、思ったの……」
+  Existing English: "I thought to myself...
+
+Neither reviewed package contains these exact source variants with the final
+closing quotation mark. The local generator matches the full Japanese text
+after NFC normalization, newline removal, and trimming. It does not ignore
+quotation-mark differences.
+
+This mismatch explains how translations can exist in the JSON files but fail
+to be applied under this matching workflow. It is not, by itself, evidence
+of a defect in a different build pipeline.
+
+The numbers above are JSON lineNumber values, not independently confirmed
+message IDs in the current AIN.
+
+Checking only whether translatedEnglishLine contains Japanese is therefore
+insufficient: unmatched source records and the generated output also need
+to be checked.
+
+2. REPEATED WORDS ACROSS CONSECUTIVE RECORDS
+   Status: confirmed in the supplied source files.
+
+These repetitions occur between records rather than within a single string:
+
+A. 128370_128430.json, records 128390–128391:
+   "Bezeleye, as a Holy Monster, probably"
+   + "probably feels the same way..."
+   Result: repeated "probably".
+
+B. 129560_129620.json AND 129570_129630.json, records 129597–129598:
+   "However, the biggest difference was—"
+   + "was that Ikamans..."
+   Result: repeated "was".
+
+Both A and B remain in the variants selected by the local script's file
+precedence. Remove the repeated opening word from the second record and
+check all overlapping copies of the passage.
+
+C. 128240_128300.json, records 128270–128271:
+   "Seracroras-sama, but"
+   + "but at this rate..."
+   Result: repeated "but" in this older copy.
+
+   Important: the overlapping, alphabetically later 128250_128310.json
+   already has this wording corrected. With the reviewed script's ordering,
+   the corrected version should win. This is an issue in an older copy
+   included in the bundle, not a confirmed problem in the final output.
+
+The player reported seeing a repeated word in the prologue, but the exact
+occurrence they personally saw has not been identified. These are additional
+confirmed file findings; they were not all verified in the running game.
+
+3. WRONG SUBJECT AND PRONOUNS IN NUNUHARA'S DIALOGUE
+   Status: confirmed contextual translation issue.
+
+File: gpt_outputs_v104/000000_000060.json
+lineNumber: 71177
+
+Current English:
+When I’m with Haniko, she seems happy... right?
+
+The surrounding dialogue is about Masuzoe and describes him in the third
+person. This translation unexpectedly introduces "I" and "she", changing
+both who is with Haniko and who appears happy.
+
+Suggested wording:
+but when he's with Haniko, he seems happy... right?
+
+The corresponding main-package record is in 071130_071190.json,
+lineNumber 71168. It uses "he" and preserves the intended subject.
+The Japanese source wording was corrected in v104, so the additional record
+with the incorrect English may be the one selected when matching that version.
+
+4. REPLACING ONLY THE FIRST HALF OF A SENTENCE — LEXINGTON
+   Status: predicted merge issue; not verified in the running game.
+
+Main package: 166650_166710.json, records 166617–166618.
+The two fragments read coherently together:
+
+"Lord Lexington, where on earth
+have you been until now!?"
+
+Additional package: gpt_outputs_v104/000720_000780.json, record 167170.
+Replacement first fragment:
+
+"Lord Lexington, until now, exactly what—
+
+The Japanese text of the first fragment is identical in both packages.
+The local script applies v104 last. If the following fragment is matched
+from the main package, the resulting sentence becomes:
+
+"Lord Lexington, until now, exactly what— have you been until now!?"
+
+Suggested wording for v104 record 167170:
+"Lord Lexington, where on earth
+
+This finding concerns mixing two translation variants across a sentence.
+It follows from the file contents and the reviewed script's overwrite order;
+the current compiled game output has not been checked.
+
+5. REPEATED INFORMATION ABOUT THE SEA WHEN PACKAGES ARE COMBINED
+   Status: predicted merge issue; not verified in the running game.
+
+Additional package: gpt_outputs_v104/000000_000060.json, record 70508.
+Current first fragment:
+
+In this world, the sea only appears once every ten years,
+
+Main package: 070470_070530.json, record 70500.
+Following fragment:
+
+that appears only once every ten years.
+
+The main-package pair is coherent because its first fragment reads:
+the sea in this world is a mysterious phenomenon
+
+The v104 translation moves the information about the ten-year interval into
+the first fragment. Combining that replacement with the main package's
+continuation can repeat the same information and break the sentence.
+
+Suggested wording for v104 record 70508, if the main-package continuation
+is retained:
+the sea in this world is a mysterious phenomenon
+
+Check the two consecutive messages in the generated output before applying
+a correction. Record numbers differ between the packages, so verify their
+mapping against the original AIN rather than assuming the same numeric IDs.
+
+6. INCONSISTENT NAMES AND TERMINOLOGY
+   Status: confirmed inconsistencies; preferred terminology needs agreement.
+
+In gpt_outputs_v104/000000_000060.json:
+
+- 85268: Kueruplan. The main package uses Quelplan. The additional package
+  also uses Quelplan in 000360_000420.json, record 85574.
+- 85263: Rudrasoum. The additional package contains 19 occurrences of
+  Rudrasaum elsewhere, and the main package also uses Rudrasaum.
+- 69680: saintly monsters. The main package uses Holy Gal Monsters and,
+  in some places, Saintess Monsters. A consistent terminology policy is
+  needed; the additional third variant makes the group harder to recognize.
+
+The main package also contains Felis in 39 records and Feliss in 75 records.
+Examples:
+- 015360_015420.json, record 15377: Felis.
+- 029190_029240.json, record 29233: Feliss.
+
+These are record counts, including overlapping copies. The preferred spelling
+should follow the project's glossary and be applied consistently.
+
+7. FOUR APPARENTLY INCORRECT RECORD NUMBERS
+   Status: confirmed numbering anomaly; the intended correction is inferred.
+
+File: 138860_138910.json.
+After 138905, the sequence is:
+139006, 139007, 139008, 139009, then 138910.
+
+The sequence strongly suggests a +100 typo in those four records. The likely
+intended values are 138906–138909, but these should be checked against the
+original source before being changed.
+
+Numbers 139006–139009 also appear in another file for different dialogue.
+The local generator matches Japanese text, so this anomaly alone does not
+prove that incorrect dialogue appears in the game. However, it may interfere
+with locating short, frequently repeated lines, particularly the final one.
+Check against the original AIN dump or regeneration_report.json.
+
+8. OVERLAPPING FILES NEED CONTEXTUAL REVIEW
+
+The main package contains 1,948 groups with the same lineNumber and the same
+Japanese text after the reviewed generator's normalization, but different
+English translations. These groups contain 2,108 additional records.
+
+These are overlap counts, not error counts. Some differences are quotation
+style, wording preferences, or redistribution of a sentence between adjacent
+records. The local generator selects the version from the alphabetically
+later file. Future corrections should therefore check complete sentences
+and all overlapping copies, rather than individual records in isolation.
+
+9. PREVIOUSLY FLAGGED ITEMS STILL REQUIRING A DECISION
+
+- 001320_001380.json, record 1341: Form Roomba. The established English
+  spelling of the form name still needs confirmation. This was already
+  listed in MANUAL_REVIEW.txt.
+- 069670_069720.json, records 69703, 69705, 69707 and 69709: 鬼 is rendered
+  as "demon". This should be checked against the project's species names.
+- The same file, records 69709–69710: an unnecessary comma separates
+  "someone and a demon" from the verb "mated".
+
+STRUCTURAL CHECKS THAT PASSED
+
+- All 4,262 reviewed JSON files parsed successfully.
+- No empty translations remained in the reviewed current packages.
+- The older outputs.rar contained 98 empty translations. The reviewed full
+  bundle already includes a correction involving 196 records in 68 files.
+- Comparing that full bundle with the older outputs.rar showed no changes
+  to the line numbers or Japanese text in corresponding records.
+- A scan for common refusal messages, reasoning tags and code fences found
+  no such insertions in the English translations.
+- After applying the reviewed generator's sanitization rules, no English
+  characters unencodable in CP932 were found. This was a character check,
+  not a complete compilation test.
+- Searching the English fields for Japanese characters did not reveal whole
+  ordinary dialogue lines left untranslated there. The matches included
+  explanations of Japanese spelling, shout endings, conditions and technical
+  notes. As the encyclopedia screenshots demonstrate, this check does not
+  establish that every in-game line receives its translation.
+
+SUGGESTED PRIORITIES
+
+First address the two encyclopedia source mismatches, repeated words across
+record boundaries, and v104 record 71177. Then check the mixed-package
+sentences involving records 167170 and 70508 and their continuations.
+After that, standardize names and terminology. Verify numbering anomalies
+and unresolved overlaps against the original AIN and a fresh generation report.
